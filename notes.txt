@@ -1,0 +1,129 @@
+make manual requests for valid and invalid resources
+    - pay attention to how the server responds to requests for invalid resources
+use the site map
+make automated requests
+    - Burp Intruder
+capture responses
+repeat
+
+when brute force guessing the existence of resources, investigate the naming convention 
+    - Upper case, CamelCase, lowercase
+    - AddFile, DeleteFile, EditFile, etc
+    
+review client side code for clues about hidden server side content
+    - look for comments that indicate untested/unsafe features
+    - might include usernames/passwords/etc
+    
+look for common file extensions
+    - txt, bak, src, inc, old
+    - .java, .cs
+    
+look for temporary files
+    - .DS_Store
+    - file.php-1
+    - .tmp
+    
+DirBuster from OWASP 
+
+Google search tips:
+    - site:www.target.com 
+        - returns every resource that google has a reference to
+    - site.www.target.com login 
+    - link:www.target.com 
+        - returns pages that link to target
+    - related:www.target.com 
+        - returns pages that are similar to target
+    - Search other sections of Google (Groups, News, etc)
+    - Investigate cached pages
+        - Look for results that are no longer accessible via the main site
+    
+Look for programming questions about the target application
+Compile a list of all relevant names and emails
+    - Look for questions they have asked about the application (i.e. stackoverflow)
+    
+Look for known bugs that infest the default software/packages    
+    
+Wikto/Nikto is a free tool for scanning
+    - May report false positives/false negatives
+    
+    
+Identify instances where functionality is accessed by passing names of a function in a parameter
+    - some sites may use a single URL with functions handling everything
+
+Use lists of common debug parameter names
+    - debug, test, hide, source, etc
+    - target login, search, file transfer functionalities
+    
+    
+    
+Client side validation
+    - checks may not be repeated server side
+database interaction
+    - SQL injection
+File uploading/downloading
+    - path traversal
+    - stored cross-site scripting
+display of user supplied data
+    - cross site scripting
+social networking features
+    - username enumeration
+    - store cross site scripting
+login
+    - username enumeration
+    - weak passwords
+multistage login
+    - logic flaws
+session state
+    - predictable tokens
+    - insecure handling of tokens
+access controls
+    - horizontal + vertical privilege escalation
+user impersonation functions
+    - privilege escalation
+cleartext communications
+    - session hijacking
+    - capture credentials
+off-site links
+    - leakage of query string parameters in the referer header
+interfaces to external systems
+    - shortcuts in the handling of sessions/access controls
+error message
+email interaction
+native code components
+    - buffer overflows
+use of third party components
+    - known vulnerabilities
+identifiable server software
+    - known vulnerabilities
+    
+    
+    
+identify impersonation functionality within the application 
+    - e.g. help desk functionality
+multiple working passwords may indicate master backdoor password
+
+
+using a working account, try using modified passwords
+    - remove the last character(s) (passwords might be truncated)
+    - change password case
+    - remove special characters
+    
+
+try to register the same username with different passwords
+    - facilitates username enumeration if it does not succeed
+    - if it does work, that may be exploitable
+    - it might generate an error message
+    
+    
+auto-assigned usernames may be predictable
+auto-assigned passwords may be predictable
+account activation urls may be predictable
+
+
+for multi-stage authentication, try performing only the final stage
+    - may be possible to bypass earlier stages
+    
+    
+    
+    
+    
