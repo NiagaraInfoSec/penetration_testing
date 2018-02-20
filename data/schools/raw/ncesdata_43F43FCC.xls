@@ -1,0 +1,872 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+
+<!-- ENCRYPT:16EB2781::60:7E:FE:B8:B5:55:BA:2E:89:30:81:17:59:3B:AA:3A:32:BB:C0:A7:C9:0:68:5F:A0:77:F2:A4:C0:A9:87:98:58:99:6E:7F:5D:57:32:E5:52:34:8D:33:75:86:73:F7:5:44:8:73:EC:FC:F1:B8:3B:4C:9:5F:AD:93:C5:C8:C9:A1:59:A:89:C6:21:43:8B:1F:9A:6A:FF:AB:97:26:B8:BF:8C:57:16:BB:7B:9E:54:4C:C0:4E:C:B:F:22:8E:29:9A:DE:83:B3:74:D7:58:F8:B2:A:51:F9:7:A2:70:60:9D:5B:38:99:98:C1:94:BA:C:61:6F:AF:20:28:32:83:9B:3A:69:88:A5:18:C3:7D:DA:8A:74:B0:28:EE:4A:F1:9:60:7D:4B:58:71:77:77:34:1B:FD:CB:F1:47:A:31:CC:BD:3A:56:FE:22:3F:17:3A:4C:81:40:EA:23:33:D7:C6:CA:75:6B:4A:90:FF:88:B4:4:9A:7A:99:B:97:27:CF:A9:A:D0:9C:AC:44:DF:27:9A:7D:F0:FC:E9:16:45:8E:C9:D2:1E:C2:32:A1:6E:B0:50:A7:B9:31:87:48:32:E0:4F:6C:6F:37:9F:3B:E9:2F:AA:5B:67:3A:4E:17:5C:95:C2:FF:34:DE:6A:B9:6D:80:DA:65:45:CE:4B:95:5B:1D:A7:FB:7D:3B:AA:51:7D:51:E0:3D:BB:D4:42:16:49:69:7B:B5:67:FE:71:FF:49:B8:4C:1B:34:70:F6:6:83:10:27:C:8E:82:95:D4:F4:7E:29:CE:31:56:59:87:E1:24:82:95:EC:10:36:15:F8:3A:A8:C5:F2:17:C8:CB:86:F6:73:D8:63:B7:EF:62:6B:72:CA:34:DA:B1:C6:4:D2:F4:DB:B7:A:9B:75:25:C:A:45:5A:F7:7:4B:6C:7E:33:E2:9E:CB:9B:A8:E1:95:6C:D3:C3:DF:40:EE:37:75:51:5:78:F6:CE:64:EF:D8:CD:55:4A:D0:CD:EB:C3:CB:E2:1A:7B:AC:CA:38:45:DD:8:BD:1E:67:14:C4:5D:79:FF:26:BC:35:DC:9C:1F:50:EA:C0:54:9A:B3:BC:61:D1:5A:D6:9:37:5C:67:4F:52:D2:65:B:AB:2E:22:59:5F:FC:27:2C:B4:3D:EA:D9:F7:9E:63:E3:22:AE:88:AD:A3:C3:AE:AB:4F:16:F5:77:BE:70:89:AE:BC:68:A9:4A:A4:A1:28:29:B8:6D:57:28:D7:13:38:91:A4:A4:75:9:71:F:D4:E0:D6:6:33:1E:1B:5D:4A:8E:15:A4:57:D2:FE:72:2A:91:B3:1D:B4:8B:33:C3:6C:CE:57:11:BD:20:F5:6B:64:96:DD:72:57:B4:7E:7E:7C:8D:89:2A:7F:5:BC:5D:69:5E:A8:C9:B9:5E:C4:88:2:DE:81:BF:0:4D:81:13:80:64:9D:60:54:F6:86:E1:8F:20:77:5:6C:6D:C9:54:59:59:57:7E:65:C:DA:FA:99:E3:19:1D:C6:F3:BB:93:11:48:F9:1A:6A:B7:9F:56:D8:93:83:97:DA:13:30:24:1:ED:53:8E:22:14:58:F3:CE:A0:87:4E:ED:93:96:E7:4F:F2:73:A8:17:75:47:2B:E9:86:9B:95:5D:67:4C:A2:44:75:B8:56:8B:85:51:95:4A:59:52:D2:B2:D0:A0:FE:D1:53:52:B7:5B:5F:A4:11:DC:B2:12:5:75:42:8B:DB:9E:C9:7:7B:FF:69:6D:EE:CC:EE:D7:18:A3:C5:E3:EA:37:CA:23:AA:CA:B9:81:57:EF:B9:C4:57:57:6C:AD:2D:BE:4E:B7:C7:DB:AD:4:AD:12:D7:98:7A:7A:5A:77:A4:E4:44:9C:9D:82:F5:34:88:36:8C:45:21:9E:A9:D6:44:BF:45:28:8D:65:59:97:8C:55:C5:52:58:B5:A6:62:79:F9:47:49:68:72:C9:47:E2:CC:52:74:FA:F6:7C:88:F0:8A:F1:9D:8A:45:9C:22:6D:FF:32:C1:D8:35:8F:2:14:D6:A3:F3:5D:A5:35:AA:F7:77:B2:3C:8F:19:AB:B8:42:5A:11:F6:D4:D3:98:1F:92:2D:44:96:15:74:E2:C8:46:B0:F6:B2:8C:35:2D:3D:9:D5:8E:78:F9:43:E0:27:EB:D5:94:8B:A2:F4:61:A:39:1F:1:66:C8:3C:CE:FC:B2:70:72:24:33:5A:6C:3:51:98:6D:89:6F:3E:62:C:70:C3:58:E7:24:54:F8:7E:19:E9:35:EF:A1:B8:8F:87:5D:6D:50:98:7B:63:5C:10:C6:FE:A2:54:3C:5F:47:70:C1:91:17:DA:41:93:AA:E2:D9:2C:C6:CB:32:87:6D:16:E4:D9:35:DD:AA:79:61:10:66:A8:0:8:B5:E4:F7:68:26:AB:AB:1D:8:35:B1:D:84:B8:51:5C:75:E9:83:2A:88:89:72:48:D0:96:40:96:89:B3:6F:33:DD:FE:B6:B6:8F:2C:DB:16:A:7E:BD:D4:B0:3C:25:F6:57:65:9B:C6:C7:F2:48:17:16:C2:7A:FF:FC:76:A1:A:34:3A:29:D1:16:D5:65:AF:E9:5B:91:EA:AB:4A:A5:A6:B2:72:11:58:32:3:7C:B6:F3:59:EE:F7:88:80:1A:D0:A:85:61:D9:EB:47:84:68:72:5E:C1:55:18:BC:DB:D6:22:83:29:29:E1:DB:A6:D:F5:C7:36:95:DF:4C:8F:B0:80:39:EA:76:42:7F:D1:2F:F0:6B:DA:A9:E:25:D8:7F:F9:72:6A:B3:89:F6:99:50:8:FB:99:50:19:7D:68:27:92:A3:92:FE:D5:54:6F:38:52:D4:19:16:5E:DE:83:BE:27:1C:40:F2:F8:78:CB:32:9:65:19:4A:C9:E0:F6:6C:33:9F:6C:29:75:F0:6:81:F8:CB:D4:11:42:DD:BB:C2:58:11:F:4D:56:BE:C6:8D:CC:1C:1:84:7F:36:2F:DE:95:F8:A3:C7:3B:36:66:F6:CF:EE:E0:2:26:CA:31:85:1B:83:F4:5F:32:77:59:AF:C1:4A:98:D6:51:D4:B3:7F:13:70:C9:FB:BC:2C:B5:64:65:F2:4B:93:B9:61:C0:80:89:BC:C7:A1:85:8C:6C:5F:27:4B:9C:0:6B:8D:9E:7D:A0:A8:7E:4:76:7E:CD:18:4A:99:CF:9A:B7:76:D5:41:F9:B6:1:32:DB:8B:1A:39:B4:7E:8:A3:8E:FF:EF:9A:D7:BD:36:28:2:3A:66:CB:21:3F:CB:31:77:20:E9:2F:23:B3:45:28:32:25:1A:AC:A:5B:E1:37:1E:6:F5:82:1D:F3:A8:C9:79:C8:C0:CF:67:F3:BA:91:42:3A:E7:58:AF:D:AC:54:51:62:A2:E8:16:60:CE:7E:92:9D:8E:85:23:F6:D4:CC:7B:E0:8F:13:1B:1A:88:9D:D8:41:A9:88:76:B4:69:61:C0:28:6B:3B:D6:19:AB:4E:7:45:1D:46:36:76:2F:7B:D0:45:1:1D:D6:6B:D9:F6:47:54:25:BB:44:E4:EE:F4:E0:DA:12:FE:A0:E4:50:B4:AF:A9:C8:36:A9:6B:66:41:5D:48:4A:9C:12:E1:6::4706E38F:ENCRYPT -->
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Excel.Sheet>
+
+<title>National Center for Education Statistics</title>
+
+<style>
+<!--
+.txtcol
+	{
+	mso-number-format:"\@";
+	font-size:8pt;
+	mso-width-source:auto;
+	}
+.numcol
+	{
+	mso-number-format:"general";
+	text-align:right;
+	font-size:8pt;
+	mso-width-source:auto;
+	}
+.headrow
+	{
+	border-bottom-style: solid;
+	border-top-style: solid;
+	border-bottom-color: #000000;
+	border-top-color: #000000;
+	font-size:8pt;
+	mso-width-source:auto;
+	}
+-->
+</style>
+
+</head>
+<body>
+
+<table border=1 bordercolor=#bbbbbb cellpadding=0 cellspacing=0>
+<tr>
+  <td height=31 colspan=6 valign=bottom style="border-style: solid; border-color: #FFFFFF"><font size=5 face=impact><b>National Center for Education Statistics</font></b></td>
+</tr>
+<tr>
+  <td height=25 colspan=6 valign=bottom style="border-style: solid; border-color: #FFFFFF"><font size=3><b>CCD public school data 2015-2016, 2016-2017 school years</b></font></td>
+</tr>
+<tr>
+  <td height=30 colspan=6 valign=top style="border-style: solid; border-color: #FFFFFF">The file contains (<B>28</B>) records based on your search.</td>
+</tr>
+<tr>
+  <td height=48 colspan=6 valign=top style="border-style: solid; border-color: #FFFFFF"><font size=1><strong>NOTES:</strong><ul><li class='noteAsterisk'>* denotes a column with data from 2015-2016</li><li>[ † ] indicates that the data are not applicable. For example, the enrollment and staff characteristics for schools that opened in the 2016-2017 school year will not be available until the full 2016-2017 file is released.</li><li>[ – ] indicates that the data are missing.</li><li>[ ‡ ] indicates that the data do not meet NCES data quality standards.</li><li>The directory information on school name, address, and phone number are preliminary data from initial submissions of school level data for 2016-2017.</li><li>Data provided on student membership and staffing are from the official school level data for 2015-2016.</li></ul><strong>SEARCH CRITERIA:</strong> State: "Virgin Islands" - School Description: "Regular, Special Education, Vocational, Other/Alternative"</font></td>
+</tr>
+<tr>
+  <td height=30 colspan=6 valign=top style="border-style: solid; border-color: #FFFFFF"><font size=1>NCES is not responsible for the manner in which this data is presented. This data is provided as an extra service to the user. To download full CCD datasets, please go to the CCD home page. <strong>http://nces.ed.gov/ccd</strong></font></td>
+</tr>
+<TR height=17>
+  <TD class="headrow"><b>NCES School ID</b></TD>
+  <TD class="headrow"><b>State School ID</b></TD>
+  <TD class="headrow"><b>NCES District ID</b></TD>
+  <TD class="headrow"><b>State District ID</b></TD>
+  <TD class="headrow"><b>Low Grade*</b></TD>
+  <TD class="headrow"><b>High Grade*</b></TD>
+  <TD class="headrow"><b>School Name</b></TD>
+  <TD class="headrow"><b>District</b></TD>
+  <TD class="headrow"><b>County Name*</b></TD>
+  <TD class="headrow"><b>Street Address</b></TD>
+  <TD class="headrow"><b>City</b></TD>
+  <TD class="headrow"><b>State</b></TD>
+  <TD class="headrow"><b>ZIP</b></TD>
+  <TD class="headrow"><b>ZIP 4-digit</b></TD>
+  <TD class="headrow"><b>Phone</b></TD>
+  <TD class="headrow"><b>Locale Code*</b></TD>
+  <TD class="headrow"><b>Locale*</b></TD>
+  <TD class="headrow"><b>Charter</b></TD>
+  <TD class="headrow"><b>Magnet*</b></TD>
+  <TD class="headrow"><b>Title I School*</b></TD>
+  <TD class="headrow"><b>Title 1 School Wide*</b></TD>
+  <TD class="headrow"><b>Students*</b></TD>
+  <TD class="headrow"><b>Teachers*</b></TD>
+  <TD class="headrow"><b>Student Teacher Ratio*</b></TD>
+  <TD class="headrow"><b>Free Lunch*</b></TD>
+  <TD class="headrow"><b>Reduced Lunch*</b></TD>
+</TR>
+
+<TR height=17>
+  <TD class="txtcol">780000200001</TD>
+  <TD class="txtcol">VI-002-35</TD>
+  <TD class="txtcol">7800002</TD>
+  <TD class="txtcol">VI-002</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">ALEXANDER HENDERSON ELEMENTARY SCHOOL</TD>
+  <TD class="txtcol">Saint Croix School District</TD>
+  <TD class="txtcol">St. Croix Island</TD>
+  <TD class="txtcol">2133 Hospital Street</TD>
+  <TD class="txtcol">Saint Croix</TD>
+  <TD class="txtcol">VI</TD>
+  <TD class="txtcol">00820</TD>
+  <TD class="txtcol"></TD>
+  <TD class="txtcol">(340)772-1330</TD>
+  <TD class="txtcol">33</TD>
+  <TD class="txtcol">Town: Remote</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">No</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">440.00000</TD>
+  <TD class="txtcol">33.00000</TD>
+  <TD class="txtcol">13.3000000</TD>
+  <TD class="txtcol">437.00000</TD>
+  <TD class="txtcol">0.00000</TD>
+</TR>
+<TR height=17>
+  <TD class="txtcol">780000200002</TD>
+  <TD class="txtcol">VI-002-37</TD>
+  <TD class="txtcol">7800002</TD>
+  <TD class="txtcol">VI-002</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">ALFREDO ANDREWS ELEMENTARY SCHOOL</TD>
+  <TD class="txtcol">Saint Croix School District</TD>
+  <TD class="txtcol">St. Croix Island</TD>
+  <TD class="txtcol">2133 Hospital Street</TD>
+  <TD class="txtcol">Saint Croix</TD>
+  <TD class="txtcol">VI</TD>
+  <TD class="txtcol">00820</TD>
+  <TD class="txtcol"></TD>
+  <TD class="txtcol">(340)778-1925</TD>
+  <TD class="txtcol">33</TD>
+  <TD class="txtcol">Town: Remote</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">No</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">550.00000</TD>
+  <TD class="txtcol">38.00000</TD>
+  <TD class="txtcol">14.5000000</TD>
+  <TD class="txtcol">547.00000</TD>
+  <TD class="txtcol">0.00000</TD>
+</TR>
+<TR height=17>
+  <TD class="txtcol">780000200003</TD>
+  <TD class="txtcol">VI-002-46</TD>
+  <TD class="txtcol">7800002</TD>
+  <TD class="txtcol">VI-002</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">ARTHUR A. RICHARDS JUNIOR HIGH SCHOOL</TD>
+  <TD class="txtcol">Saint Croix School District</TD>
+  <TD class="txtcol">St. Croix Island</TD>
+  <TD class="txtcol">2133 Hospital Street</TD>
+  <TD class="txtcol">Saint Croix</TD>
+  <TD class="txtcol">VI</TD>
+  <TD class="txtcol">00820</TD>
+  <TD class="txtcol"></TD>
+  <TD class="txtcol">(340)772-1500</TD>
+  <TD class="txtcol">33</TD>
+  <TD class="txtcol">Town: Remote</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">No</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">412.00000</TD>
+  <TD class="txtcol">35.00000</TD>
+  <TD class="txtcol">11.8000000</TD>
+  <TD class="txtcol">409.00000</TD>
+  <TD class="txtcol">0.00000</TD>
+</TR>
+<TR height=17>
+  <TD class="txtcol">780003000034</TD>
+  <TD class="txtcol">VI-001-9</TD>
+  <TD class="txtcol">7800030</TD>
+  <TD class="txtcol">VI-001</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">BERTHA BOSCHULTE JUNIOR HIGH</TD>
+  <TD class="txtcol">Saint Thomas - Saint John School District</TD>
+  <TD class="txtcol">St. Thomas Island</TD>
+  <TD class="txtcol">1834 Kongens Gade</TD>
+  <TD class="txtcol">Saint Thomas</TD>
+  <TD class="txtcol">VI</TD>
+  <TD class="txtcol">00802</TD>
+  <TD class="txtcol"></TD>
+  <TD class="txtcol">(340)775-4222</TD>
+  <TD class="txtcol">33</TD>
+  <TD class="txtcol">Town: Remote</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">No</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">591.00000</TD>
+  <TD class="txtcol">43.00000</TD>
+  <TD class="txtcol">13.7000000</TD>
+  <TD class="txtcol">588.00000</TD>
+  <TD class="txtcol">0.00000</TD>
+</TR>
+<TR height=17>
+  <TD class="txtcol">780003000033</TD>
+  <TD class="txtcol">VI-001-25</TD>
+  <TD class="txtcol">7800030</TD>
+  <TD class="txtcol">VI-001</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">CANCRYN JUNIOR HIGH SCHOOL</TD>
+  <TD class="txtcol">Saint Thomas - Saint John School District</TD>
+  <TD class="txtcol">St. Thomas Island</TD>
+  <TD class="txtcol">1834 Kongens Gade</TD>
+  <TD class="txtcol">Saint Thomas</TD>
+  <TD class="txtcol">VI</TD>
+  <TD class="txtcol">00802</TD>
+  <TD class="txtcol"></TD>
+  <TD class="txtcol">(340)774-4540</TD>
+  <TD class="txtcol">33</TD>
+  <TD class="txtcol">Town: Remote</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">No</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">531.00000</TD>
+  <TD class="txtcol">52.00000</TD>
+  <TD class="txtcol">10.2000000</TD>
+  <TD class="txtcol">528.00000</TD>
+  <TD class="txtcol">0.00000</TD>
+</TR>
+<TR height=17>
+  <TD class="txtcol">780003000005</TD>
+  <TD class="txtcol">VI-001-27</TD>
+  <TD class="txtcol">7800030</TD>
+  <TD class="txtcol">VI-001</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">CHARLOTTE AMALIE HIGH SCHOOL</TD>
+  <TD class="txtcol">Saint Thomas - Saint John School District</TD>
+  <TD class="txtcol">St. Thomas Island</TD>
+  <TD class="txtcol">1834 Kongens Gade</TD>
+  <TD class="txtcol">Saint Thomas</TD>
+  <TD class="txtcol">VI</TD>
+  <TD class="txtcol">00802</TD>
+  <TD class="txtcol"></TD>
+  <TD class="txtcol">(340)774-0780</TD>
+  <TD class="txtcol">33</TD>
+  <TD class="txtcol">Town: Remote</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">No</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">1361.00000</TD>
+  <TD class="txtcol">116.00000</TD>
+  <TD class="txtcol">11.7000000</TD>
+  <TD class="txtcol">1358.00000</TD>
+  <TD class="txtcol">0.00000</TD>
+</TR>
+<TR height=17>
+  <TD class="txtcol">780000200006</TD>
+  <TD class="txtcol">VI-002-34</TD>
+  <TD class="txtcol">7800002</TD>
+  <TD class="txtcol">VI-002</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">CLAUDE O. MARKOE ELEMENTARY SCHOOL</TD>
+  <TD class="txtcol">Saint Croix School District</TD>
+  <TD class="txtcol">St. Croix Island</TD>
+  <TD class="txtcol">2133 Hospital Street</TD>
+  <TD class="txtcol">Saint Croix</TD>
+  <TD class="txtcol">VI</TD>
+  <TD class="txtcol">00820</TD>
+  <TD class="txtcol"></TD>
+  <TD class="txtcol">(340)772-4510</TD>
+  <TD class="txtcol">33</TD>
+  <TD class="txtcol">Town: Remote</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">No</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">497.00000</TD>
+  <TD class="txtcol">32.00000</TD>
+  <TD class="txtcol">15.5000000</TD>
+  <TD class="txtcol">494.00000</TD>
+  <TD class="txtcol">0.00000</TD>
+</TR>
+<TR height=17>
+  <TD class="txtcol">780003000010</TD>
+  <TD class="txtcol">VI-001-26</TD>
+  <TD class="txtcol">7800030</TD>
+  <TD class="txtcol">VI-001</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">E. BENJAMIN OLIVER ELEMENTARY SCHOOL</TD>
+  <TD class="txtcol">Saint Thomas - Saint John School District</TD>
+  <TD class="txtcol">St. Thomas Island</TD>
+  <TD class="txtcol">1834 Kongens Gade</TD>
+  <TD class="txtcol">Saint Thomas</TD>
+  <TD class="txtcol">VI</TD>
+  <TD class="txtcol">00802</TD>
+  <TD class="txtcol"></TD>
+  <TD class="txtcol">(340)775-2000</TD>
+  <TD class="txtcol">33</TD>
+  <TD class="txtcol">Town: Remote</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">No</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">528.00000</TD>
+  <TD class="txtcol">30.00000</TD>
+  <TD class="txtcol">17.6000000</TD>
+  <TD class="txtcol">525.00000</TD>
+  <TD class="txtcol">0.00000</TD>
+</TR>
+<TR height=17>
+  <TD class="txtcol">780000200009</TD>
+  <TD class="txtcol">VI-002-45</TD>
+  <TD class="txtcol">7800002</TD>
+  <TD class="txtcol">VI-002</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">ELENA L. CHRISTIAN JUNIOR HIGH SCCHOOL</TD>
+  <TD class="txtcol">Saint Croix School District</TD>
+  <TD class="txtcol">St. Croix Island</TD>
+  <TD class="txtcol">2133 Hospital Street</TD>
+  <TD class="txtcol">Saint Croix</TD>
+  <TD class="txtcol">VI</TD>
+  <TD class="txtcol">00820</TD>
+  <TD class="txtcol"></TD>
+  <TD class="txtcol">(340)773-4445</TD>
+  <TD class="txtcol">33</TD>
+  <TD class="txtcol">Town: Remote</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">No</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">307.00000</TD>
+  <TD class="txtcol">24.00000</TD>
+  <TD class="txtcol">12.8000000</TD>
+  <TD class="txtcol">304.00000</TD>
+  <TD class="txtcol">0.00000</TD>
+</TR>
+<TR height=17>
+  <TD class="txtcol">780000200011</TD>
+  <TD class="txtcol">VI-002-32</TD>
+  <TD class="txtcol">7800002</TD>
+  <TD class="txtcol">VI-002</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">EULALIE RIVERA ELEMENTARY SCHOOL</TD>
+  <TD class="txtcol">Saint Croix School District</TD>
+  <TD class="txtcol">St. Croix Island</TD>
+  <TD class="txtcol">2133 Hospital Street</TD>
+  <TD class="txtcol">Saint Croix</TD>
+  <TD class="txtcol">VI</TD>
+  <TD class="txtcol">00820</TD>
+  <TD class="txtcol"></TD>
+  <TD class="txtcol">(340)692-2121</TD>
+  <TD class="txtcol">33</TD>
+  <TD class="txtcol">Town: Remote</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">No</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">472.00000</TD>
+  <TD class="txtcol">31.00000</TD>
+  <TD class="txtcol">15.2000000</TD>
+  <TD class="txtcol">469.00000</TD>
+  <TD class="txtcol">0.00000</TD>
+</TR>
+<TR height=17>
+  <TD class="txtcol">780003000025</TD>
+  <TD class="txtcol">VI-001-21</TD>
+  <TD class="txtcol">7800030</TD>
+  <TD class="txtcol">VI-001</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">GLADYS A. ABRAHAM  ELEMENTARY SCHOOL</TD>
+  <TD class="txtcol">Saint Thomas - Saint John School District</TD>
+  <TD class="txtcol">St. Thomas Island</TD>
+  <TD class="txtcol">1834 Kongens Gade</TD>
+  <TD class="txtcol">Saint Thomas</TD>
+  <TD class="txtcol">VI</TD>
+  <TD class="txtcol">00802</TD>
+  <TD class="txtcol"></TD>
+  <TD class="txtcol">(340)774-7385</TD>
+  <TD class="txtcol">33</TD>
+  <TD class="txtcol">Town: Remote</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">No</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">385.00000</TD>
+  <TD class="txtcol">29.00000</TD>
+  <TD class="txtcol">13.3000000</TD>
+  <TD class="txtcol">382.00000</TD>
+  <TD class="txtcol">0.00000</TD>
+</TR>
+<TR height=17>
+  <TD class="txtcol">780003000015</TD>
+  <TD class="txtcol">VI-001-28</TD>
+  <TD class="txtcol">7800030</TD>
+  <TD class="txtcol">VI-001</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">IVANNA EUDORA KEAN HIGH SCHOOL</TD>
+  <TD class="txtcol">Saint Thomas - Saint John School District</TD>
+  <TD class="txtcol">St. Thomas Island</TD>
+  <TD class="txtcol">1834 Kongens Gade</TD>
+  <TD class="txtcol">Saint Thomas</TD>
+  <TD class="txtcol">VI</TD>
+  <TD class="txtcol">00802</TD>
+  <TD class="txtcol"></TD>
+  <TD class="txtcol">(340)775-6380</TD>
+  <TD class="txtcol">33</TD>
+  <TD class="txtcol">Town: Remote</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">No</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">927.00000</TD>
+  <TD class="txtcol">71.00000</TD>
+  <TD class="txtcol">13.1000000</TD>
+  <TD class="txtcol">924.00000</TD>
+  <TD class="txtcol">0.00000</TD>
+</TR>
+<TR height=17>
+  <TD class="txtcol">780003000018</TD>
+  <TD class="txtcol">VI-001-18</TD>
+  <TD class="txtcol">7800030</TD>
+  <TD class="txtcol">VI-001</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">JANE E. TUITT ELEMENTARY SCHOOL</TD>
+  <TD class="txtcol">Saint Thomas - Saint John School District</TD>
+  <TD class="txtcol">St. Thomas Island</TD>
+  <TD class="txtcol">1834 Kongens Gade</TD>
+  <TD class="txtcol">Saint Thomas</TD>
+  <TD class="txtcol">VI</TD>
+  <TD class="txtcol">00802</TD>
+  <TD class="txtcol"></TD>
+  <TD class="txtcol">(340)774-0520</TD>
+  <TD class="txtcol">33</TD>
+  <TD class="txtcol">Town: Remote</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">No</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">172.00000</TD>
+  <TD class="txtcol">13.00000</TD>
+  <TD class="txtcol">13.2000000</TD>
+  <TD class="txtcol">169.00000</TD>
+  <TD class="txtcol">0.00000</TD>
+</TR>
+<TR height=17>
+  <TD class="txtcol">780000200037</TD>
+  <TD class="txtcol">VI-002-44</TD>
+  <TD class="txtcol">7800002</TD>
+  <TD class="txtcol">VI-002</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">JOHN H. WOODSON JUNIOR HIGH SCHOOL</TD>
+  <TD class="txtcol">Saint Croix School District</TD>
+  <TD class="txtcol">St. Croix Island</TD>
+  <TD class="txtcol">2133 Hospital Street</TD>
+  <TD class="txtcol">Saint Croix</TD>
+  <TD class="txtcol">VI</TD>
+  <TD class="txtcol">00820</TD>
+  <TD class="txtcol"></TD>
+  <TD class="txtcol">(340)778-2710</TD>
+  <TD class="txtcol">33</TD>
+  <TD class="txtcol">Town: Remote</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">No</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">313.00000</TD>
+  <TD class="txtcol">39.00000</TD>
+  <TD class="txtcol">8.0000000</TD>
+  <TD class="txtcol">310.00000</TD>
+  <TD class="txtcol">0.00000</TD>
+</TR>
+<TR height=17>
+  <TD class="txtcol">780003000019</TD>
+  <TD class="txtcol">VI-001-20</TD>
+  <TD class="txtcol">7800030</TD>
+  <TD class="txtcol">VI-001</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">JOSEPH GOMEZ ELEMENTARY SCHOOL</TD>
+  <TD class="txtcol">Saint Thomas - Saint John School District</TD>
+  <TD class="txtcol">St. Thomas Island</TD>
+  <TD class="txtcol">1834 Kongens Gade</TD>
+  <TD class="txtcol">Saint Thomas</TD>
+  <TD class="txtcol">VI</TD>
+  <TD class="txtcol">00802</TD>
+  <TD class="txtcol"></TD>
+  <TD class="txtcol">(340)775-4490</TD>
+  <TD class="txtcol">33</TD>
+  <TD class="txtcol">Town: Remote</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">No</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">455.00000</TD>
+  <TD class="txtcol">31.00000</TD>
+  <TD class="txtcol">14.7000000</TD>
+  <TD class="txtcol">452.00000</TD>
+  <TD class="txtcol">0.00000</TD>
+</TR>
+<TR height=17>
+  <TD class="txtcol">780003000020</TD>
+  <TD class="txtcol">VI-001-12</TD>
+  <TD class="txtcol">7800030</TD>
+  <TD class="txtcol">VI-001</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">JOSEPH SIBILLY ELEMENTARY SCHOOL</TD>
+  <TD class="txtcol">Saint Thomas - Saint John School District</TD>
+  <TD class="txtcol">St. Thomas Island</TD>
+  <TD class="txtcol">1834 Kongens Gade</TD>
+  <TD class="txtcol">Saint Thomas</TD>
+  <TD class="txtcol">VI</TD>
+  <TD class="txtcol">00802</TD>
+  <TD class="txtcol"></TD>
+  <TD class="txtcol">(340)774-7001</TD>
+  <TD class="txtcol">33</TD>
+  <TD class="txtcol">Town: Remote</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">No</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">274.00000</TD>
+  <TD class="txtcol">19.00000</TD>
+  <TD class="txtcol">14.4000000</TD>
+  <TD class="txtcol">271.00000</TD>
+  <TD class="txtcol">0.00000</TD>
+</TR>
+<TR height=17>
+  <TD class="txtcol">780000200021</TD>
+  <TD class="txtcol">VI-002-30</TD>
+  <TD class="txtcol">7800002</TD>
+  <TD class="txtcol">VI-002</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">JUANITA GARDINE ELEMENTARY SCHOOL</TD>
+  <TD class="txtcol">Saint Croix School District</TD>
+  <TD class="txtcol">St. Croix Island</TD>
+  <TD class="txtcol">2133 Hospital Street</TD>
+  <TD class="txtcol">Saint Croix</TD>
+  <TD class="txtcol">VI</TD>
+  <TD class="txtcol">00820</TD>
+  <TD class="txtcol"></TD>
+  <TD class="txtcol">(340)773-0050</TD>
+  <TD class="txtcol">33</TD>
+  <TD class="txtcol">Town: Remote</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">No</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">367.00000</TD>
+  <TD class="txtcol">27.00000</TD>
+  <TD class="txtcol">13.6000000</TD>
+  <TD class="txtcol">364.00000</TD>
+  <TD class="txtcol">0.00000</TD>
+</TR>
+<TR height=17>
+  <TD class="txtcol">780003000022</TD>
+  <TD class="txtcol">VI-001-52</TD>
+  <TD class="txtcol">7800030</TD>
+  <TD class="txtcol">VI-001</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">JULIUS E SPRAUVE</TD>
+  <TD class="txtcol">Saint Thomas - Saint John School District</TD>
+  <TD class="txtcol">St. John Island</TD>
+  <TD class="txtcol">1834 Kongens Gade</TD>
+  <TD class="txtcol">Saint Thomas</TD>
+  <TD class="txtcol">VI</TD>
+  <TD class="txtcol">00802</TD>
+  <TD class="txtcol"></TD>
+  <TD class="txtcol">(340)776-6336</TD>
+  <TD class="txtcol">33</TD>
+  <TD class="txtcol">Town: Remote</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">No</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">309.00000</TD>
+  <TD class="txtcol">26.00000</TD>
+  <TD class="txtcol">11.9000000</TD>
+  <TD class="txtcol">306.00000</TD>
+  <TD class="txtcol">0.00000</TD>
+</TR>
+<TR height=17>
+  <TD class="txtcol">780003000008</TD>
+  <TD class="txtcol">VI-001-11</TD>
+  <TD class="txtcol">7800030</TD>
+  <TD class="txtcol">VI-001</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">LEONARD DOBER ELEMENTARY SCHOOL</TD>
+  <TD class="txtcol">Saint Thomas - Saint John School District</TD>
+  <TD class="txtcol">St. Thomas Island</TD>
+  <TD class="txtcol">1834 Kongens Gade</TD>
+  <TD class="txtcol">Saint Thomas</TD>
+  <TD class="txtcol">VI</TD>
+  <TD class="txtcol">00802</TD>
+  <TD class="txtcol"></TD>
+  <TD class="txtcol">(340)774-5253</TD>
+  <TD class="txtcol">33</TD>
+  <TD class="txtcol">Town: Remote</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">No</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">140.00000</TD>
+  <TD class="txtcol">11.00000</TD>
+  <TD class="txtcol">12.7000000</TD>
+  <TD class="txtcol">137.00000</TD>
+  <TD class="txtcol">0.00000</TD>
+</TR>
+<TR height=17>
+  <TD class="txtcol">780000200023</TD>
+  <TD class="txtcol">VI-002-33</TD>
+  <TD class="txtcol">7800002</TD>
+  <TD class="txtcol">VI-002</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">LEW MUCKLE ELEMENTARY SCHOOL</TD>
+  <TD class="txtcol">Saint Croix School District</TD>
+  <TD class="txtcol">St. Croix Island</TD>
+  <TD class="txtcol">2133 Hospital Street</TD>
+  <TD class="txtcol">Saint Croix</TD>
+  <TD class="txtcol">VI</TD>
+  <TD class="txtcol">00820</TD>
+  <TD class="txtcol"></TD>
+  <TD class="txtcol">(340)778-5286</TD>
+  <TD class="txtcol">33</TD>
+  <TD class="txtcol">Town: Remote</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">No</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">406.00000</TD>
+  <TD class="txtcol">30.00000</TD>
+  <TD class="txtcol">13.5000000</TD>
+  <TD class="txtcol">403.00000</TD>
+  <TD class="txtcol">0.00000</TD>
+</TR>
+<TR height=17>
+  <TD class="txtcol">780003000024</TD>
+  <TD class="txtcol">VI-001-15</TD>
+  <TD class="txtcol">7800030</TD>
+  <TD class="txtcol">VI-001</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">LOCKHART ELEMENTARY SCHOOL</TD>
+  <TD class="txtcol">Saint Thomas - Saint John School District</TD>
+  <TD class="txtcol">St. Thomas Island</TD>
+  <TD class="txtcol">1834 Kongens Gade</TD>
+  <TD class="txtcol">Saint Thomas</TD>
+  <TD class="txtcol">VI</TD>
+  <TD class="txtcol">00802</TD>
+  <TD class="txtcol"></TD>
+  <TD class="txtcol">(340)775-0820</TD>
+  <TD class="txtcol">33</TD>
+  <TD class="txtcol">Town: Remote</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">No</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">667.00000</TD>
+  <TD class="txtcol">44.00000</TD>
+  <TD class="txtcol">15.2000000</TD>
+  <TD class="txtcol">664.00000</TD>
+  <TD class="txtcol">0.00000</TD>
+</TR>
+<TR height=17>
+  <TD class="txtcol">780000200028</TD>
+  <TD class="txtcol">VI-002-36</TD>
+  <TD class="txtcol">7800002</TD>
+  <TD class="txtcol">VI-002</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">PEARL B. LARSEN ELEMENTARY SCHOOL</TD>
+  <TD class="txtcol">Saint Croix School District</TD>
+  <TD class="txtcol">St. Croix Island</TD>
+  <TD class="txtcol">2133 Hospital Street</TD>
+  <TD class="txtcol">Saint Croix</TD>
+  <TD class="txtcol">VI</TD>
+  <TD class="txtcol">00820</TD>
+  <TD class="txtcol"></TD>
+  <TD class="txtcol">(340)773-3070</TD>
+  <TD class="txtcol">33</TD>
+  <TD class="txtcol">Town: Remote</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">No</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">377.00000</TD>
+  <TD class="txtcol">33.00000</TD>
+  <TD class="txtcol">11.4000000</TD>
+  <TD class="txtcol">374.00000</TD>
+  <TD class="txtcol">0.00000</TD>
+</TR>
+<TR height=17>
+  <TD class="txtcol">780000200029</TD>
+  <TD class="txtcol">VI-002-43</TD>
+  <TD class="txtcol">7800002</TD>
+  <TD class="txtcol">VI-002</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">RICARDO RICHARDS ELEMENTARY SCCHOOL</TD>
+  <TD class="txtcol">Saint Croix School District</TD>
+  <TD class="txtcol">St. Croix Island</TD>
+  <TD class="txtcol">2133 Hospital Street</TD>
+  <TD class="txtcol">Saint Croix</TD>
+  <TD class="txtcol">VI</TD>
+  <TD class="txtcol">00820</TD>
+  <TD class="txtcol"></TD>
+  <TD class="txtcol">(340)778-0612</TD>
+  <TD class="txtcol">33</TD>
+  <TD class="txtcol">Town: Remote</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">No</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">404.00000</TD>
+  <TD class="txtcol">30.00000</TD>
+  <TD class="txtcol">13.5000000</TD>
+  <TD class="txtcol">401.00000</TD>
+  <TD class="txtcol">0.00000</TD>
+</TR>
+<TR height=17>
+  <TD class="txtcol">780000200030</TD>
+  <TD class="txtcol">VI-002-47</TD>
+  <TD class="txtcol">7800002</TD>
+  <TD class="txtcol">VI-002</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">SAINT CROIX CENTRAL HIGH</TD>
+  <TD class="txtcol">Saint Croix School District</TD>
+  <TD class="txtcol">St. Croix Island</TD>
+  <TD class="txtcol">2133 Hospital Street</TD>
+  <TD class="txtcol">Saint Croix</TD>
+  <TD class="txtcol">VI</TD>
+  <TD class="txtcol">00820</TD>
+  <TD class="txtcol"></TD>
+  <TD class="txtcol">(340)778-0123</TD>
+  <TD class="txtcol">33</TD>
+  <TD class="txtcol">Town: Remote</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">No</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">1025.00000</TD>
+  <TD class="txtcol">77.00000</TD>
+  <TD class="txtcol">13.3000000</TD>
+  <TD class="txtcol">1022.00000</TD>
+  <TD class="txtcol">0.00000</TD>
+</TR>
+<TR height=17>
+  <TD class="txtcol">780000200013</TD>
+  <TD class="txtcol">VI-002-50</TD>
+  <TD class="txtcol">7800002</TD>
+  <TD class="txtcol">VI-002</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">ST. CROIX EDUCATIONAL COMPEX HIGH SCHOOL</TD>
+  <TD class="txtcol">Saint Croix School District</TD>
+  <TD class="txtcol">St. Croix Island</TD>
+  <TD class="txtcol">2133 Hospital Street</TD>
+  <TD class="txtcol">Saint Croix</TD>
+  <TD class="txtcol">VI</TD>
+  <TD class="txtcol">00820</TD>
+  <TD class="txtcol"></TD>
+  <TD class="txtcol">(340)778-2216</TD>
+  <TD class="txtcol">33</TD>
+  <TD class="txtcol">Town: Remote</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">Yes</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">989.00000</TD>
+  <TD class="txtcol">67.00000</TD>
+  <TD class="txtcol">14.8000000</TD>
+  <TD class="txtcol">986.00000</TD>
+  <TD class="txtcol">0.00000</TD>
+</TR>
+<TR height=17>
+  <TD class="txtcol">780000200007</TD>
+  <TD class="txtcol">VI-002-49</TD>
+  <TD class="txtcol">7800002</TD>
+  <TD class="txtcol">VI-002</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">ST. CROIX EDUCATIONAL COMPLEX VOCATIONAL SCHOOL</TD>
+  <TD class="txtcol">Saint Croix School District</TD>
+  <TD class="txtcol">St. Croix Island</TD>
+  <TD class="txtcol">2133 Hospital Street</TD>
+  <TD class="txtcol">Saint Croix</TD>
+  <TD class="txtcol">VI</TD>
+  <TD class="txtcol">00820</TD>
+  <TD class="txtcol"></TD>
+  <TD class="txtcol">(340)778-2036</TD>
+  <TD class="txtcol">33</TD>
+  <TD class="txtcol">Town: Remote</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">No</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+</TR>
+<TR height=17>
+  <TD class="txtcol">780003000026</TD>
+  <TD class="txtcol">VI-001-17</TD>
+  <TD class="txtcol">7800030</TD>
+  <TD class="txtcol">VI-001</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">ULLA F MULLER ELEMENTARY SCHOOL</TD>
+  <TD class="txtcol">Saint Thomas - Saint John School District</TD>
+  <TD class="txtcol">St. John Island</TD>
+  <TD class="txtcol">1834 Kongens Gade</TD>
+  <TD class="txtcol">Saint Thomas</TD>
+  <TD class="txtcol">VI</TD>
+  <TD class="txtcol">00802</TD>
+  <TD class="txtcol"></TD>
+  <TD class="txtcol">(340)774-0059</TD>
+  <TD class="txtcol">33</TD>
+  <TD class="txtcol">Town: Remote</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">No</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">488.00000</TD>
+  <TD class="txtcol">29.00000</TD>
+  <TD class="txtcol">16.8000000</TD>
+  <TD class="txtcol">485.00000</TD>
+  <TD class="txtcol">0.00000</TD>
+</TR>
+<TR height=17>
+  <TD class="txtcol">780003000027</TD>
+  <TD class="txtcol">VI-001-23</TD>
+  <TD class="txtcol">7800030</TD>
+  <TD class="txtcol">VI-001</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">YVONNE BOWSKY ELEMENTARY SCHOOL</TD>
+  <TD class="txtcol">Saint Thomas - Saint John School District</TD>
+  <TD class="txtcol">St. Thomas Island</TD>
+  <TD class="txtcol">1834 Kongens Gade</TD>
+  <TD class="txtcol">Saint Thomas</TD>
+  <TD class="txtcol">VI</TD>
+  <TD class="txtcol">00802</TD>
+  <TD class="txtcol"></TD>
+  <TD class="txtcol">(340)775-3220</TD>
+  <TD class="txtcol">33</TD>
+  <TD class="txtcol">Town: Remote</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">No</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">418.00000</TD>
+  <TD class="txtcol">32.00000</TD>
+  <TD class="txtcol">13.1000000</TD>
+  <TD class="txtcol">415.00000</TD>
+  <TD class="txtcol">0.00000</TD>
+</TR>
+</TABLE></BODY></HTML>

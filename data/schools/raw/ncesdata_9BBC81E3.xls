@@ -1,0 +1,872 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+
+<!-- ENCRYPT:F27B31B5::15:98:4C:75:44:2F:F:C2:1E:5B:2C:20:8A:98:A1:47:9B:36:F7:CF:CF:59:8C:42:91:6C:80:5B:8A:97:81:21:CA:85:AD:9:C7:38:8:4A:5C:B:B1:29:EA:88:9D:7C:DC:30:57:36:53:97:84:2:49:73:80:51:4B:B9:20:33:A:14:4C:45:8D:68:AE:4C:33:E1:B7:9D:D2:D6:31:9B:95:BF:16:2F:43:BC:D2:A:DF:0:B9:A7:F:83:A:B7:4E:5F:F4:FB:9F:61:18:5B:9B:4F:3C:D9:E0:F:61:77:C8:83:66:64:43:78:25:E1:5F:EB:E0:14:11:38:D7:9E:26:9D:11:83:97:F4:57:75:16:BE:17:2D:9B:6D:2A:71:7C:98:AF:4D:BF:B6:4C:28:45:17:55:FE:42:BB:97:DE:13:2A:4A:2D:8:91:28:CF:28:C0:86:7:6D:2C:D9:6:E0:8C:F5:6D:49:10:9A:FB:CC:BB:3E:89:5C:DD:D7:1F:12:C3:44:75:87:24:E8:5C:66:46:BE:B8:AE:A4:A6:69:60:8A:5C:E9:3B:32:C7:CA:D2:3E:B8:16:EE:98:A6:7E:16:95:37:D6:3E:19:AC:A1:E:54:21:69:F4:32:98:1B:72:CF:A:A0:30:3A:E7:67:8D:1C:4E:D4:C7:B3:45:A4:62:34:73:70:18:AE:7B:3C:8F:96:4A:3:11:36:EA:50:40:8F:3D:AE:E3:AA:82:18:25:CE:98:F6:90:18:0:76:E2:6C:E7:9F:D2:3F:D8:61:28:65:4E:57:4D:9F:1B:1F:F2:B5:C4:F0:6F:1B:68:B5:6B:9B:47:9B:25:66:75:89:7B:3:BD:B9:24:D3:FB:B2:3:B1:5E:70:4F:49:25:7A:23:66:55:48:DE:CD:ED:A3:A5:D0:4E:67:B5:35:DF:DC:37:80:3D:4:73:60:67:DC:87:66:38:F9:BB:65:AD:1B:62:68:B0:B1:15:1D:30:39:50:FD:E5:F5:42:A6:9D:82:D6:A7:6F:43:38:72:FE:99:D5:91:BA:5B:BB:E2:CB:D9:C1:D9:A:DF:1E:28:6E:9D:33:92:79:D7:EF:2C:E3:59:D8:54:CA:91:68:74:40:63:97:54:0:36:D9:DE:7:59:9D:D0:46:7:3B:2E:93:E9:9B:E8:78:66:A4:1B:EA:6C:65:DA:50:73:15:2C:6:A7:77:3B:24:C3:60:2F:7C:20:AA:E0:98:82:F1:A0:31:F7:7F:48:AB:24:FF:51:67:53:10:76:6B:17:AE:16:95:D6:A:9B:34:5A:EA:E4:F3:4A:A5:55:52:95:44:1A:F1:70:54:7:ED:FD:97:E0:4:15:6E:33:2:8E:EA:C:44:F0:A2:81:D:26:25:86:42:0:65:7C:2A:A1:7A:AD:B3:7E:14:F7:22:FA:DB:7C:9E:A7:EC:7A:37:6C:80:2D:9:C6:BF:E1:20:8:61:36:EB:90:F9:3:58:F1:37:97:EF:20:59:C:39:31:EC:D5:F4:6A:69:48:5A:C8:60:AB:38:37:CC:17:90:4B:76:19:B7:80:14:8F:33:CD:B5:3B:8C:B9:99:CE:1:95:41:B:B9:9D:30:3F:47:54:B2:38:FA:DE:78:71:83:ED:25:91:3:EE:68:6D:68:33:41:19:FF:E7:97:FB:51:F2:A0:78:40:C5:26:49:A3:83:38:54:32:6:DB:64:9B:89:CA:FA:CB:10:CB:C5:40:CB:1C:74:B9:C6:BE:2B:D6:8E:99:53:BC:D8:DE:65:B3:7:91:25:EB:CA:14:54:94:B6:1A:6C:8F:60:F8:1D:BC:9B:1C:29:A9:6D:66:FF:D3:B5:B:D2:5E:A0:62:4B:8D:74:8C:3D:49:32:24:2F:7C:7B:8C:C2:E3:F9:B:28:7E:DD:89:FC:1C:79:9E:18:D3:8D:DF:C:94:AB:4D:1:2D:69:E0:CD:3A:F:17:DA:2F:2A:4F:32:2:87:C:60:7E:D7:9C:41:35:99:18:8F:5F:4A:24:4D:B8:D4:51:FB:28:6F:EA:A4:18:8:28:6E:FE:90:99:3:5E:5:C6:BF:AA:57:8A:8D:A6:8B:B7:FD:A6:DF:47:2F:40:1F:D:29:93:15:A2:5C:CE:DA:23:41:B:38:6F:10:FC:A:FE:BF:FA:D2:64:DE:DF:E5:19:A6:7C:40:D1:A5:2F:A4:CA:E2:C9:40:A0:6A:96:8C:FC:43:60:9B:EE:7F:E9:7:5C:0:3:F7:EA:F5:42:B5:EC:C3:8C:A7:DD:BC:37:AD:7B:35:B:23:3C:FB:4B:BA:7C:51:D6:C2:6E:68:89:35:1D:E3:F5:90:BC:C8:1C:2A:D9:8B:AE:3C:E4:49:F:B9:AF:EC:FF:41:A7:E2:4B:96:2E:68:A9:A1:18:7E:8A:8E:2A:59:EB:F0:DF:64:DA:C1:61:88:F7:19:D9:10:85:36:30:1:D5:D9:91:13:BD:64:EA:56:2E:22:F2:FE:F7:27:9F:E9:30:8F:14:67:A9:C5:2E:52:9D:65:D:28:EC:B4:3A:E1:BD:E5:B0:F1:71:CF:57:88:17:91:36:67:C9:C3:15:2D:D3:65:61:89:E8:4:78:AD:70:5D:2B:53:F2:7B:CC:D3:ED:47:BE:F5:C8:D2:BC:A5:1F:36:19:3F:98:72:64:65:F1:C4:27:BB:86:B1:D7:85:C7:48:8:6B:89:67:99:64:A4:AE:B4:1B:11:3A:2D:47:DA:9A:3E:1B:96:6D:BB:1F:CE:8:2C:F5:FE:74:20:FD:D9:D1:2C:D7:7D:0:9A:49:DB:CA:E1:13:65:75:7E:D9:DB:D3:C5:40:6A:45:DB:A2:54:64:AD:39:6C:3:84:EA:E:44:5C:61:A6:61:4E:D0:B:78:34:4E:CF:AD:F9:31:80:83:49:14:E5:B8:62:16:D7:8A:26:D2:83:C6:5B:81:48:64:3B:7A:34:7:9C:54:73:5:2E:90:AE:D6:70:A3:DA:0:92:E9:3B:BB:27:69:8C:6B:68:68:44:91:38:C3:45:6B:33:E0:DC:78:6C:F7:4B:54:20:53:35:93:F8:7A:81:AF:62:8E:C2:2C:D8:5A:7F:99:54:FE:9:A:55:9F:C7:28:27:76:71:4:44:44:65:8B:CA:F:55:89:B7:E3:C8:54:6E:BA:94:AF:B0:88:35:B0:91:88:A:B6:E5:91:B6:9D:2E:3B:62:B2:81:75:D5:53:3A:43:3B:3D:37:F1:8E:32:62:5:67:C9:A0:C7:7F:2A:B2:3F:C8:7D:CA:D1:7E:2C:94:5B:62:CC:E5:E9:FF:3:BF:8:73:A9:EE:AE:D3:EC:BB:62:3C:A4:A8:DC:66:6E:D6:F8:30:8D:31:A8:A3:63:2B:6B:44:4C:F0:A6:3E:4F:4E:C0:2E:27:27:7:4E:36:FA:B9:DA:9D:1:B2:BC:69:B0:74:A2:ED:11:BC:EE:C2:2B:5B:28:C3:F0:2E:B3:5A:6E:7:D8:62:33:10:B8:BF:90:78:7F:D1:15:9F:82:A6:7B:79:F:6B:97:8F:48:F3:76:B0:D8:74:21:4F:BA:E3:EF:9A:A4:49:59:88:0:B1:30:8E:C2:7E:65:CC:B6:C6:31:91:D3:83:6C::EC8CE52D:ENCRYPT -->
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Excel.Sheet>
+
+<title>National Center for Education Statistics</title>
+
+<style>
+<!--
+.txtcol
+	{
+	mso-number-format:"\@";
+	font-size:8pt;
+	mso-width-source:auto;
+	}
+.numcol
+	{
+	mso-number-format:"general";
+	text-align:right;
+	font-size:8pt;
+	mso-width-source:auto;
+	}
+.headrow
+	{
+	border-bottom-style: solid;
+	border-top-style: solid;
+	border-bottom-color: #000000;
+	border-top-color: #000000;
+	font-size:8pt;
+	mso-width-source:auto;
+	}
+-->
+</style>
+
+</head>
+<body>
+
+<table border=1 bordercolor=#bbbbbb cellpadding=0 cellspacing=0>
+<tr>
+  <td height=31 colspan=6 valign=bottom style="border-style: solid; border-color: #FFFFFF"><font size=5 face=impact><b>National Center for Education Statistics</font></b></td>
+</tr>
+<tr>
+  <td height=25 colspan=6 valign=bottom style="border-style: solid; border-color: #FFFFFF"><font size=3><b>CCD public school data 2015-2016, 2016-2017 school years</b></font></td>
+</tr>
+<tr>
+  <td height=30 colspan=6 valign=top style="border-style: solid; border-color: #FFFFFF">The file contains (<B>28</B>) records based on your search.</td>
+</tr>
+<tr>
+  <td height=48 colspan=6 valign=top style="border-style: solid; border-color: #FFFFFF"><font size=1><strong>NOTES:</strong><ul><li class='noteAsterisk'>* denotes a column with data from 2015-2016</li><li>[ † ] indicates that the data are not applicable. For example, the enrollment and staff characteristics for schools that opened in the 2016-2017 school year will not be available until the full 2016-2017 file is released.</li><li>[ – ] indicates that the data are missing.</li><li>[ ‡ ] indicates that the data do not meet NCES data quality standards.</li><li>The directory information on school name, address, and phone number are preliminary data from initial submissions of school level data for 2016-2017.</li><li>Data provided on student membership and staffing are from the official school level data for 2015-2016.</li></ul><strong>SEARCH CRITERIA:</strong> State: "American Samoa" - School Description: "Regular, Special Education, Vocational, Other/Alternative"</font></td>
+</tr>
+<tr>
+  <td height=30 colspan=6 valign=top style="border-style: solid; border-color: #FFFFFF"><font size=1>NCES is not responsible for the manner in which this data is presented. This data is provided as an extra service to the user. To download full CCD datasets, please go to the CCD home page. <strong>http://nces.ed.gov/ccd</strong></font></td>
+</tr>
+<TR height=17>
+  <TD class="headrow"><b>NCES School ID</b></TD>
+  <TD class="headrow"><b>State School ID</b></TD>
+  <TD class="headrow"><b>NCES District ID</b></TD>
+  <TD class="headrow"><b>State District ID</b></TD>
+  <TD class="headrow"><b>Low Grade*</b></TD>
+  <TD class="headrow"><b>High Grade*</b></TD>
+  <TD class="headrow"><b>School Name</b></TD>
+  <TD class="headrow"><b>District</b></TD>
+  <TD class="headrow"><b>County Name*</b></TD>
+  <TD class="headrow"><b>Street Address</b></TD>
+  <TD class="headrow"><b>City</b></TD>
+  <TD class="headrow"><b>State</b></TD>
+  <TD class="headrow"><b>ZIP</b></TD>
+  <TD class="headrow"><b>ZIP 4-digit</b></TD>
+  <TD class="headrow"><b>Phone</b></TD>
+  <TD class="headrow"><b>Locale Code*</b></TD>
+  <TD class="headrow"><b>Locale*</b></TD>
+  <TD class="headrow"><b>Charter</b></TD>
+  <TD class="headrow"><b>Magnet*</b></TD>
+  <TD class="headrow"><b>Title I School*</b></TD>
+  <TD class="headrow"><b>Title 1 School Wide*</b></TD>
+  <TD class="headrow"><b>Students*</b></TD>
+  <TD class="headrow"><b>Teachers*</b></TD>
+  <TD class="headrow"><b>Student Teacher Ratio*</b></TD>
+  <TD class="headrow"><b>Free Lunch*</b></TD>
+  <TD class="headrow"><b>Reduced Lunch*</b></TD>
+</TR>
+
+<TR height=17>
+  <TD class="txtcol">600003000005</TD>
+  <TD class="txtcol">AS-4190000-094</TD>
+  <TD class="txtcol">6000030</TD>
+  <TD class="txtcol">AS-4190000</TD>
+  <TD class="txtcol">KG</TD>
+  <TD class="txtcol">08</TD>
+  <TD class="txtcol">A.P Lutali</TD>
+  <TD class="txtcol">American Samoa Department of Education</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">Box DOE</TD>
+  <TD class="txtcol">Pago Pago</TD>
+  <TD class="txtcol">AS</TD>
+  <TD class="txtcol">96799</TD>
+  <TD class="txtcol"></TD>
+  <TD class="txtcol">(684)644-7626</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">N</TD>
+  <TD class="txtcol">No</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">&dagger;</TD>
+</TR>
+<TR height=17>
+  <TD class="txtcol">600003000001</TD>
+  <TD class="txtcol">AS-4190000-076</TD>
+  <TD class="txtcol">6000030</TD>
+  <TD class="txtcol">AS-4190000</TD>
+  <TD class="txtcol">KG</TD>
+  <TD class="txtcol">08</TD>
+  <TD class="txtcol">Afonotele Elementary School</TD>
+  <TD class="txtcol">American Samoa Department of Education</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">Box DOE</TD>
+  <TD class="txtcol">Pago Pago</TD>
+  <TD class="txtcol">AS</TD>
+  <TD class="txtcol">96799</TD>
+  <TD class="txtcol"></TD>
+  <TD class="txtcol">(684)644-1525</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">N</TD>
+  <TD class="txtcol">No</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">&dagger;</TD>
+</TR>
+<TR height=17>
+  <TD class="txtcol">600003000002</TD>
+  <TD class="txtcol">AS-4190000-087</TD>
+  <TD class="txtcol">6000030</TD>
+  <TD class="txtcol">AS-4190000</TD>
+  <TD class="txtcol">KG</TD>
+  <TD class="txtcol">08</TD>
+  <TD class="txtcol">Alataua-Lua Elementary School</TD>
+  <TD class="txtcol">American Samoa Department of Education</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">Box DOE</TD>
+  <TD class="txtcol">Pago Pago</TD>
+  <TD class="txtcol">AS</TD>
+  <TD class="txtcol">96799</TD>
+  <TD class="txtcol"></TD>
+  <TD class="txtcol">(684)688-7516</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">N</TD>
+  <TD class="txtcol">No</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">&dagger;</TD>
+</TR>
+<TR height=17>
+  <TD class="txtcol">600003000003</TD>
+  <TD class="txtcol">AS-4190000-092</TD>
+  <TD class="txtcol">6000030</TD>
+  <TD class="txtcol">AS-4190000</TD>
+  <TD class="txtcol">KG</TD>
+  <TD class="txtcol">08</TD>
+  <TD class="txtcol">Alofau Elementary School</TD>
+  <TD class="txtcol">American Samoa Department of Education</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">Box DOE</TD>
+  <TD class="txtcol">Pago Pago</TD>
+  <TD class="txtcol">AS</TD>
+  <TD class="txtcol">96799</TD>
+  <TD class="txtcol"></TD>
+  <TD class="txtcol">(684)622-7659</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">N</TD>
+  <TD class="txtcol">No</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">&dagger;</TD>
+</TR>
+<TR height=17>
+  <TD class="txtcol">600003000004</TD>
+  <TD class="txtcol">AS-4190000-093</TD>
+  <TD class="txtcol">6000030</TD>
+  <TD class="txtcol">AS-4190000</TD>
+  <TD class="txtcol">KG</TD>
+  <TD class="txtcol">08</TD>
+  <TD class="txtcol">Aua Elementary School</TD>
+  <TD class="txtcol">American Samoa Department of Education</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">Box DOE</TD>
+  <TD class="txtcol">Pago Pago</TD>
+  <TD class="txtcol">AS</TD>
+  <TD class="txtcol">96799</TD>
+  <TD class="txtcol"></TD>
+  <TD class="txtcol">(684)644-4081</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">N</TD>
+  <TD class="txtcol">No</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">&dagger;</TD>
+</TR>
+<TR height=17>
+  <TD class="txtcol">600003000007</TD>
+  <TD class="txtcol">AS-4190000-102</TD>
+  <TD class="txtcol">6000030</TD>
+  <TD class="txtcol">AS-4190000</TD>
+  <TD class="txtcol">09</TD>
+  <TD class="txtcol">12</TD>
+  <TD class="txtcol">Faga'itua High School</TD>
+  <TD class="txtcol">American Samoa Department of Education</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">Box DOE</TD>
+  <TD class="txtcol">Pago Pago</TD>
+  <TD class="txtcol">AS</TD>
+  <TD class="txtcol">96799</TD>
+  <TD class="txtcol"></TD>
+  <TD class="txtcol">(684)622-7504</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">N</TD>
+  <TD class="txtcol">No</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">&dagger;</TD>
+</TR>
+<TR height=17>
+  <TD class="txtcol">600003000009</TD>
+  <TD class="txtcol">AS-4190000-095</TD>
+  <TD class="txtcol">6000030</TD>
+  <TD class="txtcol">AS-4190000</TD>
+  <TD class="txtcol">KG</TD>
+  <TD class="txtcol">08</TD>
+  <TD class="txtcol">Faleasao Elementary School</TD>
+  <TD class="txtcol">American Samoa Department of Education</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">Box DOE</TD>
+  <TD class="txtcol">Pago Pago</TD>
+  <TD class="txtcol">AS</TD>
+  <TD class="txtcol">96799</TD>
+  <TD class="txtcol"></TD>
+  <TD class="txtcol">(684)677-3115</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">N</TD>
+  <TD class="txtcol">No</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">&dagger;</TD>
+</TR>
+<TR height=17>
+  <TD class="txtcol">600003000010</TD>
+  <TD class="txtcol">AS-4190000-096</TD>
+  <TD class="txtcol">6000030</TD>
+  <TD class="txtcol">AS-4190000</TD>
+  <TD class="txtcol">KG</TD>
+  <TD class="txtcol">08</TD>
+  <TD class="txtcol">Fitiuta Elementary School</TD>
+  <TD class="txtcol">American Samoa Department of Education</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">Box DOE</TD>
+  <TD class="txtcol">Pago Pago</TD>
+  <TD class="txtcol">AS</TD>
+  <TD class="txtcol">96799</TD>
+  <TD class="txtcol"></TD>
+  <TD class="txtcol">(684)677-3506</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">N</TD>
+  <TD class="txtcol">No</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">&dagger;</TD>
+</TR>
+<TR height=17>
+  <TD class="txtcol">600003000011</TD>
+  <TD class="txtcol">AS-4190000-097</TD>
+  <TD class="txtcol">6000030</TD>
+  <TD class="txtcol">AS-4190000</TD>
+  <TD class="txtcol">KG</TD>
+  <TD class="txtcol">08</TD>
+  <TD class="txtcol">Lauli'i Elementary School</TD>
+  <TD class="txtcol">American Samoa Department of Education</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">Box DOE</TD>
+  <TD class="txtcol">Pago Pago</TD>
+  <TD class="txtcol">AS</TD>
+  <TD class="txtcol">96799</TD>
+  <TD class="txtcol"></TD>
+  <TD class="txtcol">(684)644-5653</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">N</TD>
+  <TD class="txtcol">No</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">&dagger;</TD>
+</TR>
+<TR height=17>
+  <TD class="txtcol">600003000012</TD>
+  <TD class="txtcol">AS-4190000-098</TD>
+  <TD class="txtcol">6000030</TD>
+  <TD class="txtcol">AS-4190000</TD>
+  <TD class="txtcol">KG</TD>
+  <TD class="txtcol">08</TD>
+  <TD class="txtcol">Le'atele Elementary School</TD>
+  <TD class="txtcol">American Samoa Department of Education</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">Box DOE</TD>
+  <TD class="txtcol">Pago Pago</TD>
+  <TD class="txtcol">AS</TD>
+  <TD class="txtcol">96799</TD>
+  <TD class="txtcol"></TD>
+  <TD class="txtcol">(684)633-4447</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">N</TD>
+  <TD class="txtcol">No</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">&dagger;</TD>
+</TR>
+<TR height=17>
+  <TD class="txtcol">600003000013</TD>
+  <TD class="txtcol">AS-4190000-103</TD>
+  <TD class="txtcol">6000030</TD>
+  <TD class="txtcol">AS-4190000</TD>
+  <TD class="txtcol">09</TD>
+  <TD class="txtcol">12</TD>
+  <TD class="txtcol">Leone High School</TD>
+  <TD class="txtcol">American Samoa Department of Education</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">Box DOE</TD>
+  <TD class="txtcol">Pago Pago</TD>
+  <TD class="txtcol">AS</TD>
+  <TD class="txtcol">96799</TD>
+  <TD class="txtcol"></TD>
+  <TD class="txtcol">(684)688-7368</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">N</TD>
+  <TD class="txtcol">No</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">&dagger;</TD>
+</TR>
+<TR height=17>
+  <TD class="txtcol">600003000014</TD>
+  <TD class="txtcol">AS-4190000-077</TD>
+  <TD class="txtcol">6000030</TD>
+  <TD class="txtcol">AS-4190000</TD>
+  <TD class="txtcol">KG</TD>
+  <TD class="txtcol">08</TD>
+  <TD class="txtcol">Leone Midkiff Elementary School</TD>
+  <TD class="txtcol">American Samoa Department of Education</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">Box DOE</TD>
+  <TD class="txtcol">Pago Pago</TD>
+  <TD class="txtcol">AS</TD>
+  <TD class="txtcol">96799</TD>
+  <TD class="txtcol"></TD>
+  <TD class="txtcol">(684)688-7458</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">N</TD>
+  <TD class="txtcol">No</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">&dagger;</TD>
+</TR>
+<TR height=17>
+  <TD class="txtcol">600003000015</TD>
+  <TD class="txtcol">AS-4190000-078</TD>
+  <TD class="txtcol">6000030</TD>
+  <TD class="txtcol">AS-4190000</TD>
+  <TD class="txtcol">KG</TD>
+  <TD class="txtcol">08</TD>
+  <TD class="txtcol">Lupelele Elementary School</TD>
+  <TD class="txtcol">American Samoa Department of Education</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">Box DOE</TD>
+  <TD class="txtcol">Pago Pago</TD>
+  <TD class="txtcol">AS</TD>
+  <TD class="txtcol">96799</TD>
+  <TD class="txtcol"></TD>
+  <TD class="txtcol">(684)699-7227</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">N</TD>
+  <TD class="txtcol">No</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">&dagger;</TD>
+</TR>
+<TR height=17>
+  <TD class="txtcol">600003000016</TD>
+  <TD class="txtcol">AS-4190000-104</TD>
+  <TD class="txtcol">6000030</TD>
+  <TD class="txtcol">AS-4190000</TD>
+  <TD class="txtcol">09</TD>
+  <TD class="txtcol">12</TD>
+  <TD class="txtcol">Manu'a High School</TD>
+  <TD class="txtcol">American Samoa Department of Education</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">Box DOE</TD>
+  <TD class="txtcol">Pago Pago</TD>
+  <TD class="txtcol">AS</TD>
+  <TD class="txtcol">96799</TD>
+  <TD class="txtcol"></TD>
+  <TD class="txtcol">(684)677-3152</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">N</TD>
+  <TD class="txtcol">No</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">&dagger;</TD>
+</TR>
+<TR height=17>
+  <TD class="txtcol">600003000017</TD>
+  <TD class="txtcol">AS-4190000-079</TD>
+  <TD class="txtcol">6000030</TD>
+  <TD class="txtcol">AS-4190000</TD>
+  <TD class="txtcol">KG</TD>
+  <TD class="txtcol">08</TD>
+  <TD class="txtcol">Manulele Elementary School</TD>
+  <TD class="txtcol">American Samoa Department of Education</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">Box DOE</TD>
+  <TD class="txtcol">Pago Pago</TD>
+  <TD class="txtcol">AS</TD>
+  <TD class="txtcol">96799</TD>
+  <TD class="txtcol"></TD>
+  <TD class="txtcol">(684)699-5496</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">N</TD>
+  <TD class="txtcol">No</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">&dagger;</TD>
+</TR>
+<TR height=17>
+  <TD class="txtcol">600003000033</TD>
+  <TD class="txtcol">AS-4190000-081</TD>
+  <TD class="txtcol">6000030</TD>
+  <TD class="txtcol">AS-4190000</TD>
+  <TD class="txtcol">KG</TD>
+  <TD class="txtcol">08</TD>
+  <TD class="txtcol">Masefau Elementary School</TD>
+  <TD class="txtcol">American Samoa Department of Education</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">Box DOE</TD>
+  <TD class="txtcol">Pago Pago</TD>
+  <TD class="txtcol">AS</TD>
+  <TD class="txtcol">96799</TD>
+  <TD class="txtcol"></TD>
+  <TD class="txtcol">(684)622-7104</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">N</TD>
+  <TD class="txtcol">No</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">&dagger;</TD>
+</TR>
+<TR height=17>
+  <TD class="txtcol">600003000019</TD>
+  <TD class="txtcol">AS-4190000-082</TD>
+  <TD class="txtcol">6000030</TD>
+  <TD class="txtcol">AS-4190000</TD>
+  <TD class="txtcol">KG</TD>
+  <TD class="txtcol">08</TD>
+  <TD class="txtcol">Matafao Elementary School</TD>
+  <TD class="txtcol">American Samoa Department of Education</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">Box DOE</TD>
+  <TD class="txtcol">Pago Pago</TD>
+  <TD class="txtcol">AS</TD>
+  <TD class="txtcol">96799</TD>
+  <TD class="txtcol"></TD>
+  <TD class="txtcol">(684)633-5895</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">N</TD>
+  <TD class="txtcol">No</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">&dagger;</TD>
+</TR>
+<TR height=17>
+  <TD class="txtcol">600003000020</TD>
+  <TD class="txtcol">AS-4190000-083</TD>
+  <TD class="txtcol">6000030</TD>
+  <TD class="txtcol">AS-4190000</TD>
+  <TD class="txtcol">KG</TD>
+  <TD class="txtcol">08</TD>
+  <TD class="txtcol">Matatula Elementary School</TD>
+  <TD class="txtcol">American Samoa Department of Education</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">Box DOE</TD>
+  <TD class="txtcol">Pago Pago</TD>
+  <TD class="txtcol">AS</TD>
+  <TD class="txtcol">96799</TD>
+  <TD class="txtcol"></TD>
+  <TD class="txtcol">(684)622-7422</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">N</TD>
+  <TD class="txtcol">No</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">&dagger;</TD>
+</TR>
+<TR height=17>
+  <TD class="txtcol">600003000021</TD>
+  <TD class="txtcol">AS-4190000-084</TD>
+  <TD class="txtcol">6000030</TD>
+  <TD class="txtcol">AS-4190000</TD>
+  <TD class="txtcol">KG</TD>
+  <TD class="txtcol">08</TD>
+  <TD class="txtcol">Mt. Alava Elementary School</TD>
+  <TD class="txtcol">American Samoa Department of Education</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">Box DOE</TD>
+  <TD class="txtcol">Pago Pago</TD>
+  <TD class="txtcol">AS</TD>
+  <TD class="txtcol">96799</TD>
+  <TD class="txtcol"></TD>
+  <TD class="txtcol">(684)644-4992</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">N</TD>
+  <TD class="txtcol">No</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">&dagger;</TD>
+</TR>
+<TR height=17>
+  <TD class="txtcol">600003000032</TD>
+  <TD class="txtcol">AS-4190000-101</TD>
+  <TD class="txtcol">6000030</TD>
+  <TD class="txtcol">AS-4190000</TD>
+  <TD class="txtcol">09</TD>
+  <TD class="txtcol">12</TD>
+  <TD class="txtcol">Nu'uuli Vocational Technical High School</TD>
+  <TD class="txtcol">American Samoa Department of Education</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">Box DOE</TD>
+  <TD class="txtcol">Pago Pago</TD>
+  <TD class="txtcol">AS</TD>
+  <TD class="txtcol">96799</TD>
+  <TD class="txtcol"></TD>
+  <TD class="txtcol">(684)699-9112</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">N</TD>
+  <TD class="txtcol">No</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">&dagger;</TD>
+</TR>
+<TR height=17>
+  <TD class="txtcol">600003000023</TD>
+  <TD class="txtcol">AS-4190000-085</TD>
+  <TD class="txtcol">6000030</TD>
+  <TD class="txtcol">AS-4190000</TD>
+  <TD class="txtcol">KG</TD>
+  <TD class="txtcol">08</TD>
+  <TD class="txtcol">Olomoana Elementary School</TD>
+  <TD class="txtcol">American Samoa Department of Education</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">Box DOE</TD>
+  <TD class="txtcol">Pago Pago</TD>
+  <TD class="txtcol">AS</TD>
+  <TD class="txtcol">96799</TD>
+  <TD class="txtcol"></TD>
+  <TD class="txtcol">(684)622-7622</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">N</TD>
+  <TD class="txtcol">No</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">&dagger;</TD>
+</TR>
+<TR height=17>
+  <TD class="txtcol">600003000024</TD>
+  <TD class="txtcol">AS-4190000-086</TD>
+  <TD class="txtcol">6000030</TD>
+  <TD class="txtcol">AS-4190000</TD>
+  <TD class="txtcol">KG</TD>
+  <TD class="txtcol">08</TD>
+  <TD class="txtcol">Olosega Elementary School</TD>
+  <TD class="txtcol">American Samoa Department of Education</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">Box DOE</TD>
+  <TD class="txtcol">Pago Pago</TD>
+  <TD class="txtcol">AS</TD>
+  <TD class="txtcol">96799</TD>
+  <TD class="txtcol"></TD>
+  <TD class="txtcol">(684)655-1206</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">N</TD>
+  <TD class="txtcol">No</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">&dagger;</TD>
+</TR>
+<TR height=17>
+  <TD class="txtcol">600003000026</TD>
+  <TD class="txtcol">AS-4190000-089</TD>
+  <TD class="txtcol">6000030</TD>
+  <TD class="txtcol">AS-4190000</TD>
+  <TD class="txtcol">KG</TD>
+  <TD class="txtcol">08</TD>
+  <TD class="txtcol">Pavaiai Elementary School</TD>
+  <TD class="txtcol">American Samoa Department of Education</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">Box DOE</TD>
+  <TD class="txtcol">Pago Pago</TD>
+  <TD class="txtcol">AS</TD>
+  <TD class="txtcol">96799</TD>
+  <TD class="txtcol"></TD>
+  <TD class="txtcol">(684)699-6418</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">N</TD>
+  <TD class="txtcol">No</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">&dagger;</TD>
+</TR>
+<TR height=17>
+  <TD class="txtcol">600003000025</TD>
+  <TD class="txtcol">AS-4190000-088</TD>
+  <TD class="txtcol">6000030</TD>
+  <TD class="txtcol">AS-4190000</TD>
+  <TD class="txtcol">KG</TD>
+  <TD class="txtcol">08</TD>
+  <TD class="txtcol">Peter Coleman Elementary School</TD>
+  <TD class="txtcol">American Samoa Department of Education</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">Box DOE</TD>
+  <TD class="txtcol">Pago Pago</TD>
+  <TD class="txtcol">AS</TD>
+  <TD class="txtcol">96799</TD>
+  <TD class="txtcol"></TD>
+  <TD class="txtcol">(684)633-7802</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">N</TD>
+  <TD class="txtcol">No</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">&dagger;</TD>
+</TR>
+<TR height=17>
+  <TD class="txtcol">600003000028</TD>
+  <TD class="txtcol">AS-4190000-099</TD>
+  <TD class="txtcol">6000030</TD>
+  <TD class="txtcol">AS-4190000</TD>
+  <TD class="txtcol">09</TD>
+  <TD class="txtcol">12</TD>
+  <TD class="txtcol">Samoana High School</TD>
+  <TD class="txtcol">American Samoa Department of Education</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">Box DOE</TD>
+  <TD class="txtcol">Pago Pago</TD>
+  <TD class="txtcol">AS</TD>
+  <TD class="txtcol">96799</TD>
+  <TD class="txtcol"></TD>
+  <TD class="txtcol">(684)633-5747</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">N</TD>
+  <TD class="txtcol">No</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">&dagger;</TD>
+</TR>
+<TR height=17>
+  <TD class="txtcol">600003000029</TD>
+  <TD class="txtcol">AS-4190000-090</TD>
+  <TD class="txtcol">6000030</TD>
+  <TD class="txtcol">AS-4190000</TD>
+  <TD class="txtcol">KG</TD>
+  <TD class="txtcol">08</TD>
+  <TD class="txtcol">Siliaga Elementary School</TD>
+  <TD class="txtcol">American Samoa Department of Education</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">Box DOE</TD>
+  <TD class="txtcol">Pago Pago</TD>
+  <TD class="txtcol">AS</TD>
+  <TD class="txtcol">96799</TD>
+  <TD class="txtcol"></TD>
+  <TD class="txtcol">(684)699-5843</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">N</TD>
+  <TD class="txtcol">No</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">&dagger;</TD>
+</TR>
+<TR height=17>
+  <TD class="txtcol">600003000022</TD>
+  <TD class="txtcol">AS-4190000-080</TD>
+  <TD class="txtcol">6000030</TD>
+  <TD class="txtcol">AS-4190000</TD>
+  <TD class="txtcol">KG</TD>
+  <TD class="txtcol">08</TD>
+  <TD class="txtcol">Tafuna Elementary</TD>
+  <TD class="txtcol">American Samoa Department of Education</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">Box DOE</TD>
+  <TD class="txtcol">Pago Pago</TD>
+  <TD class="txtcol">AS</TD>
+  <TD class="txtcol">96799</TD>
+  <TD class="txtcol"></TD>
+  <TD class="txtcol">(684)699-1428</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">N</TD>
+  <TD class="txtcol">No</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">&dagger;</TD>
+</TR>
+<TR height=17>
+  <TD class="txtcol">600003000031</TD>
+  <TD class="txtcol">AS-4190000-100</TD>
+  <TD class="txtcol">6000030</TD>
+  <TD class="txtcol">AS-4190000</TD>
+  <TD class="txtcol">09</TD>
+  <TD class="txtcol">12</TD>
+  <TD class="txtcol">Tafuna High School</TD>
+  <TD class="txtcol">American Samoa Department of Education</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">Box DOE</TD>
+  <TD class="txtcol">Pago Pago</TD>
+  <TD class="txtcol">AS</TD>
+  <TD class="txtcol">96799</TD>
+  <TD class="txtcol"></TD>
+  <TD class="txtcol">(684)699-1006</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">N</TD>
+  <TD class="txtcol">No</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">&ndash;</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">&dagger;</TD>
+</TR>
+</TABLE></BODY></HTML>

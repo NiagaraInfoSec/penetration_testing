@@ -26,7 +26,9 @@ class Interceptor_Proxy_Socket(pride.components.network.Tcp_Socket):
     
     defaults = {"outgoing_connection" : Connecting_Socket}
     
-    def recv(self):
+    def recv(self):        
+      #  assert self.sockname != ("127.0.0.1", 8080)
+        assert self.sockname != self.parent.sockname
         raw_data = super(Interceptor_Proxy_Socket, self).recv()
         request_line, header_data = raw_data.split('\r\n', 1)
         _stringio = StringIO.StringIO(header_data)

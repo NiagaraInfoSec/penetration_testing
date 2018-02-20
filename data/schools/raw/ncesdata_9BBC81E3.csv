@@ -1,0 +1,40 @@
+﻿National Center for Education Statistics,,,,,,,,,,,,,,,,,,,,,,,,,
+"CCD public school data 2015-2016, 2016-2017 school years",,,,,,,,,,,,,,,,,,,,,,,,,
+The file contains (28) records based on your search.,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+NOTES:* denotes a column with data from 2015-2016,,,,,,,,,,,,,,,,,,,,,,,,,
+"[ � ] indicates that the data are not applicable. For example, the enrollment and staff characteristics for schools that opened in the 2016-2017 school year will not be available until the full 2016-2017 file is released.",,,,,,,,,,,,,,,,,,,,,,,,,
+[ � ] indicates that the data are missing.,,,,,,,,,,,,,,,,,,,,,,,,,
+[ � ] indicates that the data do not meet NCES data quality standards.,,,,,,,,,,,,,,,,,,,,,,,,,
+"The directory information on school name, address, and phone number are preliminary data from initial submissions of school level data for 2016-2017.",,,,,,,,,,,,,,,,,,,,,,,,,
+"SEARCH CRITERIA: State: ""American Samoa""�-�School Description: ""Regular, Special Education, Vocational, Other/Alternative""",,,,,,,,,,,,,,,,,,,,,,,,,
+"NCES is not responsible for the manner in which this data is presented. This data is provided as an extra service to the user. To download full CCD datasets, please go to the CCD home page. http://nces.ed.gov/ccd",,,,,,,,,,,,,,,,,,,,,,,,,
+NCES School ID,State School ID,NCES District ID,State District ID,Low Grade*,High Grade*,School Name,District,County Name*,Street Address,City,State,ZIP,ZIP 4-digit,Phone,Locale Code*,Locale*,Charter,Magnet*,Title I School*,Title 1 School Wide*,Students*,Teachers*,Student Teacher Ratio*,Free Lunch*,Reduced Lunch*
+6.00003E+11,AS-4190000-094,6000030,AS-4190000,KG,08,A.P Lutali,American Samoa Department of Education,†,Box DOE,Pago Pago,AS,96799,,(684)644-7626,†,N,No,–,–,–,†,–,†,†,†
+6.00003E+11,AS-4190000-076,6000030,AS-4190000,KG,08,Afonotele Elementary School,American Samoa Department of Education,†,Box DOE,Pago Pago,AS,96799,,(684)644-1525,†,N,No,–,–,–,†,–,†,†,†
+6.00003E+11,AS-4190000-087,6000030,AS-4190000,KG,08,Alataua-Lua Elementary School,American Samoa Department of Education,†,Box DOE,Pago Pago,AS,96799,,(684)688-7516,†,N,No,–,–,–,†,–,†,†,†
+6.00003E+11,AS-4190000-092,6000030,AS-4190000,KG,08,Alofau Elementary School,American Samoa Department of Education,†,Box DOE,Pago Pago,AS,96799,,(684)622-7659,†,N,No,–,–,–,†,–,†,†,†
+6.00003E+11,AS-4190000-093,6000030,AS-4190000,KG,08,Aua Elementary School,American Samoa Department of Education,†,Box DOE,Pago Pago,AS,96799,,(684)644-4081,†,N,No,–,–,–,†,–,†,†,†
+6.00003E+11,AS-4190000-102,6000030,AS-4190000,09,12,Faga'itua High School,American Samoa Department of Education,†,Box DOE,Pago Pago,AS,96799,,(684)622-7504,†,N,No,–,–,–,†,–,†,†,†
+6.00003E+11,AS-4190000-095,6000030,AS-4190000,KG,08,Faleasao Elementary School,American Samoa Department of Education,†,Box DOE,Pago Pago,AS,96799,,(684)677-3115,†,N,No,–,–,–,†,–,†,†,†
+6.00003E+11,AS-4190000-096,6000030,AS-4190000,KG,08,Fitiuta Elementary School,American Samoa Department of Education,†,Box DOE,Pago Pago,AS,96799,,(684)677-3506,†,N,No,–,–,–,†,–,†,†,†
+6.00003E+11,AS-4190000-097,6000030,AS-4190000,KG,08,Lauli'i Elementary School,American Samoa Department of Education,†,Box DOE,Pago Pago,AS,96799,,(684)644-5653,†,N,No,–,–,–,†,–,†,†,†
+6.00003E+11,AS-4190000-098,6000030,AS-4190000,KG,08,Le'atele Elementary School,American Samoa Department of Education,†,Box DOE,Pago Pago,AS,96799,,(684)633-4447,†,N,No,–,–,–,†,–,†,†,†
+6.00003E+11,AS-4190000-103,6000030,AS-4190000,09,12,Leone High School,American Samoa Department of Education,†,Box DOE,Pago Pago,AS,96799,,(684)688-7368,†,N,No,–,–,–,†,–,†,†,†
+6.00003E+11,AS-4190000-077,6000030,AS-4190000,KG,08,Leone Midkiff Elementary School,American Samoa Department of Education,†,Box DOE,Pago Pago,AS,96799,,(684)688-7458,†,N,No,–,–,–,†,–,†,†,†
+6.00003E+11,AS-4190000-078,6000030,AS-4190000,KG,08,Lupelele Elementary School,American Samoa Department of Education,†,Box DOE,Pago Pago,AS,96799,,(684)699-7227,†,N,No,–,–,–,†,–,†,†,†
+6.00003E+11,AS-4190000-104,6000030,AS-4190000,09,12,Manu'a High School,American Samoa Department of Education,†,Box DOE,Pago Pago,AS,96799,,(684)677-3152,†,N,No,–,–,–,†,–,†,†,†
+6.00003E+11,AS-4190000-079,6000030,AS-4190000,KG,08,Manulele Elementary School,American Samoa Department of Education,†,Box DOE,Pago Pago,AS,96799,,(684)699-5496,†,N,No,–,–,–,†,–,†,†,†
+6.00003E+11,AS-4190000-081,6000030,AS-4190000,KG,08,Masefau Elementary School,American Samoa Department of Education,†,Box DOE,Pago Pago,AS,96799,,(684)622-7104,†,N,No,–,–,–,†,–,†,†,†
+6.00003E+11,AS-4190000-082,6000030,AS-4190000,KG,08,Matafao Elementary School,American Samoa Department of Education,†,Box DOE,Pago Pago,AS,96799,,(684)633-5895,†,N,No,–,–,–,†,–,†,†,†
+6.00003E+11,AS-4190000-083,6000030,AS-4190000,KG,08,Matatula Elementary School,American Samoa Department of Education,†,Box DOE,Pago Pago,AS,96799,,(684)622-7422,†,N,No,–,–,–,†,–,†,†,†
+6.00003E+11,AS-4190000-084,6000030,AS-4190000,KG,08,Mt. Alava Elementary School,American Samoa Department of Education,†,Box DOE,Pago Pago,AS,96799,,(684)644-4992,†,N,No,–,–,–,†,–,†,†,†
+6.00003E+11,AS-4190000-101,6000030,AS-4190000,09,12,Nu'uuli Vocational Technical High School,American Samoa Department of Education,†,Box DOE,Pago Pago,AS,96799,,(684)699-9112,†,N,No,–,–,–,†,–,†,†,†
+6.00003E+11,AS-4190000-085,6000030,AS-4190000,KG,08,Olomoana Elementary School,American Samoa Department of Education,†,Box DOE,Pago Pago,AS,96799,,(684)622-7622,†,N,No,–,–,–,†,–,†,†,†
+6.00003E+11,AS-4190000-086,6000030,AS-4190000,KG,08,Olosega Elementary School,American Samoa Department of Education,†,Box DOE,Pago Pago,AS,96799,,(684)655-1206,†,N,No,–,–,–,†,–,†,†,†
+6.00003E+11,AS-4190000-089,6000030,AS-4190000,KG,08,Pavaiai Elementary School,American Samoa Department of Education,†,Box DOE,Pago Pago,AS,96799,,(684)699-6418,†,N,No,–,–,–,†,–,†,†,†
+6.00003E+11,AS-4190000-088,6000030,AS-4190000,KG,08,Peter Coleman Elementary School,American Samoa Department of Education,†,Box DOE,Pago Pago,AS,96799,,(684)633-7802,†,N,No,–,–,–,†,–,†,†,†
+6.00003E+11,AS-4190000-099,6000030,AS-4190000,09,12,Samoana High School,American Samoa Department of Education,†,Box DOE,Pago Pago,AS,96799,,(684)633-5747,†,N,No,–,–,–,†,–,†,†,†
+6.00003E+11,AS-4190000-090,6000030,AS-4190000,KG,08,Siliaga Elementary School,American Samoa Department of Education,†,Box DOE,Pago Pago,AS,96799,,(684)699-5843,†,N,No,–,–,–,†,–,†,†,†
+6.00003E+11,AS-4190000-080,6000030,AS-4190000,KG,08,Tafuna Elementary,American Samoa Department of Education,†,Box DOE,Pago Pago,AS,96799,,(684)699-1428,†,N,No,–,–,–,†,–,†,†,†
+6.00003E+11,AS-4190000-100,6000030,AS-4190000,09,12,Tafuna High School,American Samoa Department of Education,†,Box DOE,Pago Pago,AS,96799,,(684)699-1006,†,N,No,–,–,–,†,–,†,†,†
