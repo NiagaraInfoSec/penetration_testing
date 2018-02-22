@@ -7,26 +7,28 @@ Pet names *
 
 Locations (towns/cities) *
 Street Names *
-zip codes
-School Names * 
-College Names *
-Business names
+School Names *
+    public schools *
+    private schools *
+    College Names *
+Business names 
 
 musical groups
 actors
 artists
 movies
 books
-
-Dates
-phone number
-
-Car makes/models
-Colors
-School mascot
 Sports teams
+School mascot
+Car makes/models
 Foods
 
+Dates
+zip codes
+phone number
+
+
+Colors
 web browser
 websites
 forums

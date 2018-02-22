@@ -739,6 +739,10 @@ If you don't have much space and know there is no vulnerable JavaScript on the p
 '';!--"<XSS>=&{()}
 
     
+If the < and > characters are escaped, it is not possible to inject a tag. 
+If the " and ' characters are escaped, it is not possible to inject an attribute.
+
+
     
 NoSQL injection
 ------
@@ -826,4 +830,18 @@ Determine your privilege level using whoami, or attempt to write a harmless file
     < is used to direct contents of a file to the commands input
     > is used to direct a commands output to a file
     
+If spaces are filtered and the target is UNIX based, try using the $IFS environment variable (which contains whitespace field separators)    
+
+Names/values of cookie parameters and persistent data may be passed to a dynamic execution function. Try submitting the following values:
     
+    ;echo%20111111
+    echo%20111111
+    response.write%20111111
+    :response.write%20111111
+    
+php: phpinfo() will return the configuration details of the php environment    
+
+Prevention: Don't use eval/exec/etc.
+            Whitelist expected values
+            input: restricted character set, alphanumeric characters only
+            

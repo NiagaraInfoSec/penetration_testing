@@ -4,14 +4,22 @@ This repository contains code and data related to web application penetration te
 
 Layout:
 
-- data: Contains useful data files
-    - commonsurnames.txt: A list of common last names, useful for answering security questions such as "What is your mother's maiden name"
+- data: Contains data files for guessing answers to security questions
+    - securityquestions.txt: A list of target security questions
+    - cities
+    - colleges
+    - names
+    - petnames
+    - privateschools
+    - schools
+    - streets    
 - findings: 
     - Lists of issues found with vulnerable web applications (Spoiler warning)
 - interceptor: 
     - The start of an interceptor proxy written in python/pride
 - misc: 
     - Miscellaneous files that may/may not be very useful
+    - burp.ignore: A list of sites to be ignored by burp spider
 - sqlmap: 
     - The SQLMAP python tool (not authored by myself)
 - utilities: 
