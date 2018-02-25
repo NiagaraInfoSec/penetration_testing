@@ -1,23 +1,37 @@
-Lists of the most common security questions and possible answers
+Lists of the most common security questions and possible answers.
+* indicates that a list of possible answers has been compiled already
 
-First names *
-Middle names *
+First/Middle names *
+    - Separated into male/female
+    from: https://names.mongabay.com/male_names.htm and https://names.mongabay.com/female_names.htm
+          source: Source: U.S. Census Bureau, Population Division, Population Analysis & Evaluation Staff
 Last names *
+    from: https://names.mongabay.com/most_common_surnames.htm
+          source: Source: U.S. Census Bureau, Population Division, Population Analysis & Evaluation Staff
 Pet names *
-
+    - Could be improved, hard to find bulk data 
+    - Could also use First/Middle names list
+    from: http://dogtime.com/top-100-dog-names
 Locations (towns/cities) *
+    from: https://developers.google.com/adwords/api/docs/appendix/geotargeting?csw=1
 Street Names *
+    from: http://www.livingplaces.com/streets/streetnamesindex.html
 School Names *
     public schools *
+        from: https://nces.ed.gov/ccd/schoolsearch/index.asp
     private schools *
+        from: https://nces.ed.gov/surveys/pss/privateschoolsearch/
     College Names *
+        from: https://nces.ed.gov/collegenavigator/
 Business names 
+    
 
 musical groups
 actors
 artists
 movies
 books
+    https://openlibrary.org/developers/dumps
 Sports teams
 School mascot
 Car makes/models
