@@ -31,6 +31,8 @@ School Names
     - from: https://nces.ed.gov/collegenavigator/
     
 Book Titles:
+- Too large to upload to GitHub
+    - In the repo, there is a link to the .txt file that has the list
 - from: https://openlibrary.org/developers/dumps        
   
   
