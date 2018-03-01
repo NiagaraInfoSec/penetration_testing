@@ -18,7 +18,22 @@ ORDERING = ("month", "day", "year")
 SEPERATOR = '/'
 
 def date_generator(days=DAYS, months=MONTHS, years=YEARS, ordering=ORDERING, separator=SEPERATOR):
-    # just ignore months having different numbers of days - it would be slower to go through them properly
+    """usage: date_generator(days=DAYS, months=MONTHS, years=YEARS,
+                             ordering=ORDERING, separator=SEPARATOR) => iterator of dates
+       usage: for date in date_generator(): ...
+       
+       Produces an iterator which yields dates of the specified configuration
+       days is a sequence of numbers which indicates the range of days to be produced, which defaults to 1-31
+       months is a sequence of numbers which indicates the range of months to be produced, which defaults to 1-12
+       years is a sequence of numbers which indicates the range of years to be produced, which defaults to 0-current year
+       ordering is a sequence of ("month", "day", "year") which indicates the ordering of the values
+            - default produces dates of the form mm/dd/yyyy, alternative configurations might be dd/mm/yyyy
+       separator is a string indicating the delimiter between months/days/years
+       
+       Values generated this way are not guaranteed to indicate valid calendar days 
+            - e.g. 02/30/2000 would indicate February 30th, which is not a valid date
+            - If only valid calendar dates are required, then the caller should filter the results"""
+    # just ignore months having different numbers of days - it would be slower and complilcated to go through them properly
     variables = locals()
     leftmost = variables[ordering[0] + 's']
     middle = variables[ordering[1] + 's']

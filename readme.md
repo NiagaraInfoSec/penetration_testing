@@ -6,13 +6,7 @@ Layout:
 
 - data: Contains data files for guessing answers to security questions
     - securityquestions.txt: A list of target security questions
-    - cities
-    - colleges
-    - names
-    - petnames
-    - privateschools
-    - schools
-    - streets    
+    - lists of cities, colleges, names, schools, streets, etc
 - findings: 
     - Lists of issues found with vulnerable web applications (Spoiler warning)
 - interceptor: 

@@ -36,12 +36,15 @@ Book Titles:
 - from: https://openlibrary.org/developers/dumps        
   
 Dates:    
-- Can be generated via utilities/generatedates.py
+- Included
+- Can also be generated via utilities/generatedates.py for alternative configurations (dd/mm/yy, mm:dd:yyyy, etc)
     
 Zip Codes:
-- Can be generated via utilities/generatezipcodes.py
+- Included
+- Can also be generated via utilities/generatezipcodes.py for alternative configurations
     
 Phone Numbers:
+- Too large to upload to github
 - Can be generated via utilities/generatephonenumbers.py
 
   
