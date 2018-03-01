@@ -35,6 +35,15 @@ Book Titles:
     - In the repo, there is a link to the .txt file that has the list
 - from: https://openlibrary.org/developers/dumps        
   
+Dates:    
+- Can be generated via utilities/generatedates.py
+    
+Zip Codes:
+- Can be generated via utilities/generatezipcodes.py
+    
+Phone Numbers:
+- Can be generated via utilities/generatephonenumbers.py
+
   
 Answer list not yet compiled
 -----  
@@ -52,16 +61,6 @@ Answer list not yet compiled
 - websites
 - forums
 - online platforms
-
-
-Can be generated
------
-- Dates
-    - Not yet implemented
-- zip codes
-    - Not yet implemented
-- phone number
-    - Not yet implemented
 
 
 Most common questions

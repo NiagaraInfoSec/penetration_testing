@@ -1,0 +1,48 @@
+# Date generator
+# xx/yy/zzzz
+import os.path
+import datetime
+
+from fileutilities import ensure_folder_exists
+
+_now = datetime.datetime.now()
+YEAR = _now.year
+MONTH = _now.month
+DAY = _now.day
+del _now
+
+DAYS = range(1, 32)
+MONTHS = range(1, 13)
+YEARS = [item for item in reversed(range(YEAR + 1))]
+ORDERING = ("month", "day", "year")
+SEPERATOR = '/'
+
+def date_generator(days=DAYS, months=MONTHS, years=YEARS, ordering=ORDERING, separator=SEPERATOR):
+    # just ignore months having different numbers of days - it would be slower to go through them properly
+    variables = locals()
+    leftmost = variables[ordering[0] + 's']
+    middle = variables[ordering[1] + 's']
+    rightmost = variables[ordering[2] + 's']
+    format_string = "{{}}{}{{}}{}{{}}".format(separator, separator)
+    assert format_string == "{}/{}/{}"
+    for right in rightmost:
+        for _middle in middle:
+            for left in leftmost:
+                yield format_string.format(left, _middle, right)
+
+def test_date_generator():
+    for date in date_generator():
+        print date
+        
+def write_dates_to_file(filename="../data/dates/dates.txt",
+                        days=DAYS, months=MONTHS, years=YEARS, ordering=ORDERING, separator=SEPERATOR):
+    ensure_folder_exists(os.path.split(filename)[0])
+    with open(filename, 'w') as _file:
+        for date in date_generator():
+            _file.write(date + '\n')
+        _file.flush()
+        
+if __name__ == "__main__":
+    #test_date_generator()
+    write_dates_to_file()
+    

@@ -1,4 +1,6 @@
+import os
 import os.path
+import errno
 
 def list_files(dir_name): 
     files = []
@@ -7,3 +9,10 @@ def list_files(dir_name):
         if os.path.isfile(source_file):
             files.append(source_file)
     return files
+    
+def ensure_folder_exists(directory):
+    try:
+        os.makedirs(directory)
+    except OSError as e:
+        if e.errno != errno.EEXIST:
+            raise    
